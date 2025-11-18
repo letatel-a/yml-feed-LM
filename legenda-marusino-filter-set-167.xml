@@ -1,0 +1,3156 @@
+<yml_catalog date="2025-11-18 17:02">
+<shop>
+<name>ЖК «Легенда Марусино»</name>
+<company>ООО СЗ «МАРУСИНО»</company>
+<url>https://legendamarusino.ru/</url>
+<email>info@nekrasovka.com</email>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Квартиры в ЖК</category>
+<category id="10" parentId="1">Студии</category>
+<category id="11" parentId="1">1-комнатные</category>
+<category id="12" parentId="1">2-комнатные</category>
+<category id="13" parentId="1">3-комнатные</category>
+</categories>
+<sets>
+<set id="s999">
+<name>Купить квартиру в Люберецком районе</name>
+<url>https://legendamarusino.ru/</url>
+</set>
+<set id="s100">
+<name>Купить студию в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=0</url>
+</set>
+<set id="s101">
+<name>Купить студию с балконом в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=0&amp;has_balcony_or_loggia=true</url>
+</set>
+<set id="s102">
+<name>Купить студию с высокими потолками в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=0&amp;high_ceiling=true</url>
+</set>
+<set id="s103">
+<name>Купить угловую студию в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=0&amp;corner=true</url>
+</set>
+<set id="s104">
+<name>Купить студию со скидкой в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=0&amp;has_discount=true</url>
+</set>
+<set id="s110">
+<name>Купить 1-комнатную квартиру в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=1</url>
+</set>
+<set id="s111">
+<name>Купить 1-комнатную квартиру с балконом в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=1&amp;has_balcony_or_loggia=true</url>
+</set>
+<set id="s112">
+<name>Купить 1-комнатную квартиру с высокими потолками в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=1&amp;high_ceiling=true</url>
+</set>
+<set id="s115">
+<name>Купить 1-комнатную квартиру с гардеробной в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=1&amp;has_wardrobe=true</url>
+</set>
+<set id="s114">
+<name>Купить однушку со скидкой в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=1&amp;has_discount=true</url>
+</set>
+<set id="s120">
+<name>Купить 2-комнатную квартиру в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=2</url>
+</set>
+<set id="s121">
+<name>Купить 2-комнатную квартиру с балконом в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=2&amp;has_balcony_or_loggia=true</url>
+</set>
+<set id="s122">
+<name>Купить 2-комнатную квартиру с высокими потолками в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=2&amp;high_ceiling=true</url>
+</set>
+<set id="s123">
+<name>Купить угловую 2-комнатную квартиру в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=2&amp;corner=true</url>
+</set>
+<set id="s125">
+<name>Купить 2-комнатную квартиру с гардеробной в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=2&amp;has_wardrobe=true</url>
+</set>
+<set id="s126">
+<name>Купить 2-комнатную квартиру с мастер-спальней в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=2&amp;master_bedroom=true</url>
+</set>
+<set id="s127">
+<name>Купить 2-комнатную квартиру с кухней-гостиной в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=2&amp;kitchen_livingroom=true</url>
+</set>
+<set id="s124">
+<name>Купить двушку со скидкой в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=2&amp;has_discount=true</url>
+</set>
+<set id="s130">
+<name>Купить 3-комнатную квартиру в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=3</url>
+</set>
+<set id="s131">
+<name>Купить 3-комнатную квартиру с балконом в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=3&amp;has_balcony_or_loggia=true</url>
+</set>
+<set id="s132">
+<name>Купить 3-комнатную квартиру с высокими потолками в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=3&amp;high_ceiling=true</url>
+</set>
+<set id="s133">
+<name>Купить угловую 3-комнатную квартиру в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=3&amp;corner=true</url>
+</set>
+<set id="s135">
+<name>Купить 3-комнатную квартиру с гардеробной в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=3&amp;has_wardrobe=true</url>
+</set>
+<set id="s136">
+<name>Купить 3-комнатную квартиру с мастер-спальней в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=3&amp;master_bedroom=true</url>
+</set>
+<set id="s137">
+<name>Купить 3-комнатную квартиру с кухней-гостиной в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=3&amp;kitchen_livingroom=true</url>
+</set>
+<set id="s134">
+<name>Купить трешку со скидкой в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=16&amp;view=cards&amp;rooms=3&amp;has_discount=true</url>
+</set>
+</sets>
+<offers>
+<offer id="00">
+<name>ЖК «Легенда Марусино» — официальная информация, цены на квартиры</name>
+<url>https://legendamarusino.ru/flats</url>
+<categoryId>1</categoryId>
+<price from="true">3800000</price>
+<currencyId>RUR</currencyId>
+<param name="Конверсия">1.0</param>
+<param name="Тип предложения">Продажа</param>
+<set-ids>s999</set-ids>
+<param name="Число объявлений">167</param>
+<param name="Широта">55.694869</param>
+<param name="Долгота">37.976646</param>
+<description>Продажа квартир в новом ЖК «Легенда Марусино» в Люберецком районе. Цены, планировки и особенности квартир.</description>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1280:0/g:ce/bl:0/c:0/plain/s3://idalite-media/media/sites/context/gallery/c59bd7d2646f44cfaf138cd4792d61eb.jpg@webp</picture>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1280:0/g:ce/bl:0/c:0/plain/s3://idalite-media/media/sites/context/gallery/0e5629b61b87409e9064ee5296b0529a.jpg@webp</picture>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1280:0/g:ce/bl:0/c:0/plain/s3://idalite-media/media/sites/context/gallery/1eff2221-0f4d-4da9-826a-3fa4b993cfe7/339b0f8b72204af6af6ad62ef0bbd056.jpg@webp</picture>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1280:0/g:ce/bl:0/c:0/plain/s3://idalite-media/media/sites/context/gallery/1eff2221-0f4d-4da9-826a-3fa4b993cfe7/f8179b0bbab4455b92359fa983fa95a2.jpg@webp</picture>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1280:0/g:ce/bl:0/c:0/plain/s3://idalite-media/media/sites/context/gallery/1eff2221-0f4d-4da9-826a-3fa4b993cfe7/a046d2bbab1e4be18cf33b638f4d5af4.jpg@webp</picture>
+</offer>
+<offer id="1">
+<name>2-комнатная 47,2м²</name>
+<url>https://legendamarusino.ru/flats/bae99173-164e-4b14-98ac-15a39f01e16b</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 1</param>
+<param name="Этаж">1</param>
+<price from="true">8378472</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">47,2</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/654570635dce492696df1f50253dd25a.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s123,s122</set-ids>
+</offer>
+<offer id="2">
+<name>2-комнатная 55,6м²</name>
+<url>https://legendamarusino.ru/flats/7712cc6d-660c-4f1d-ae0d-166b5fd854df</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 2</param>
+<param name="Этаж">1</param>
+<price from="true">9761692</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">55,6</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/267fe90fa01d4c29a6c34649592cf631.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s123,s122</set-ids>
+</offer>
+<offer id="3">
+<name>Студия 25,1м²</name>
+<url>https://legendamarusino.ru/flats/708e2b19-2966-4c50-8731-51d6b2212ec7</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 3</param>
+<param name="Этаж">1</param>
+<price from="true">5112870</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">25,1</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1d285f49a8834907958e750cef8d1204.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s112</set-ids>
+</offer>
+<offer id="4">
+<name>Студия 24,5м²</name>
+<url>https://legendamarusino.ru/flats/aebffffb-88d0-4844-9057-79338e21c254</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 7</param>
+<param name="Этаж">2</param>
+<price from="true">5137282,5</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">24,5</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/5f8b476de49641b99ee9c6b60896c59c.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="5">
+<name>1-комнатная 36,2м²</name>
+<url>https://legendamarusino.ru/flats/2ddfab10-810d-49aa-aa21-abf358a25563</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 8</param>
+<param name="Этаж">2</param>
+<price from="true">6939974,4</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">36,2</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/3b878d5e9d2b4ff0805aa5641fbec03c.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="6">
+<name>Студия 24м²</name>
+<url>https://legendamarusino.ru/flats/3d7b7c9a-a648-4ba2-baad-6680e3a10853</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 9</param>
+<param name="Этаж">2</param>
+<price from="true">5032440</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">24</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/7b892bd48e2448bbbe7fea77374a1154.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="7">
+<name>2-комнатная 55,3м²</name>
+<url>https://legendamarusino.ru/flats/c6498df9-5c56-4711-940c-00bce521f99b</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 10</param>
+<param name="Этаж">2</param>
+<price from="true">9994369</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">55,3</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c7f1b8d46df849d2838337b6ac1717f4.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s126</set-ids>
+</offer>
+<offer id="8">
+<name>2-комнатная 56м²</name>
+<url>https://legendamarusino.ru/flats/49217eb6-76c7-4b17-8227-d5db0413641d</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 11</param>
+<param name="Этаж">3</param>
+<price from="true">10136000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">56</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/75f89b9651bf44c5b45647b56ac2a951.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="9">
+<name>2-комнатная 55,3м²</name>
+<url>https://legendamarusino.ru/flats/2fdb1d34-7ea3-42de-8554-9d9e8ac5bedf</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 12</param>
+<param name="Этаж">3</param>
+<price from="true">10009300</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">55,3</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/09654312311f450ba4bffca2b4b568c3.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="10">
+<name>1-комнатная 36,1м²</name>
+<url>https://legendamarusino.ru/flats/05c8dd02-8cdb-458f-b124-f3c7a39f35c8</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 14</param>
+<param name="Этаж">3</param>
+<price from="true">6931200</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">36,1</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e066f4d8caf34f5883db1686087c2678.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="11">
+<name>2-комнатная 55,2м²</name>
+<url>https://legendamarusino.ru/flats/0ad763ad-61a3-46c7-9195-416f901d60be</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 16</param>
+<param name="Этаж">3</param>
+<price from="true">9991200</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">55,2</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c7efc830139143d1b6588b208f2fbbf9.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s126</set-ids>
+</offer>
+<offer id="12">
+<name>2-комнатная 56,1м²</name>
+<url>https://legendamarusino.ru/flats/90dfc5ab-df00-4b84-bde6-df7c2acc0546</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 17</param>
+<param name="Этаж">4</param>
+<price from="true">10169359,2</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">56,1</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/614ca38d1113496c827c98ca66207a33.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="13">
+<name>2-комнатная 55,3м²</name>
+<url>https://legendamarusino.ru/flats/b2ed5474-1b5b-45a5-af04-f17129fa5ec4</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 18</param>
+<param name="Этаж">4</param>
+<price from="true">10024341,6</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">55,3</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/8a88bab8b8a8465fba80ed8ebeae77d8.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="14">
+<name>1-комнатная 36,2м²</name>
+<url>https://legendamarusino.ru/flats/52551d1b-410e-421b-90bc-bfb9b533faf8</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 20</param>
+<param name="Этаж">4</param>
+<price from="true">6960825,6</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">36,2</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/0f03cd17cf3244bfa32af92e363b6458.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="15">
+<name>Студия 24м²</name>
+<url>https://legendamarusino.ru/flats/d93dc7c9-456a-41ad-911f-1fa5affd393b</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 21</param>
+<param name="Этаж">4</param>
+<price from="true">5047560</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">24</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d54b7d9211ba43b2851c1a2d909dbfa5.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="16">
+<name>2-комнатная 55,3м²</name>
+<url>https://legendamarusino.ru/flats/dc8c22cd-cb96-4e06-ac1c-a9674d6344ea</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 22</param>
+<param name="Этаж">4</param>
+<price from="true">10024341,6</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">55,3</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c5f286ee1dda4c31bc13ae24925d94c8.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s126</set-ids>
+</offer>
+<offer id="17">
+<name>1-комнатная 35,9м²</name>
+<url>https://legendamarusino.ru/flats/2d2bcce6-368c-46ae-b3de-c0c1d1b81ec4</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 23</param>
+<param name="Этаж">5</param>
+<price from="true">6913478,4</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">35,9</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/5e924e5989924d9cbb95e6f0573ffba5.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111,s113</set-ids>
+</offer>
+<offer id="18">
+<name>1-комнатная 36м²</name>
+<url>https://legendamarusino.ru/flats/c100de82-a217-4df9-9d19-b4815162b138</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 26</param>
+<param name="Этаж">6</param>
+<price from="true">6943104</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">36</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/bf3d58cdedaa4ffb8ed2b7bef70b9566.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111,s113</set-ids>
+</offer>
+<offer id="19">
+<name>2-комнатная 64,7м²</name>
+<url>https://legendamarusino.ru/flats/39c09d4e-a57d-4c9e-aa7c-d9ef01ab0a27</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 29</param>
+<param name="Этаж">1</param>
+<price from="true">11296620</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">64,7</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e27afbd5fd79480e974c64e4af5078dc.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s125,s122</set-ids>
+</offer>
+<offer id="20">
+<name>Студия 25,1м²</name>
+<url>https://legendamarusino.ru/flats/bfaebb70-66e2-42c4-b009-a2d66677f5dd</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 31</param>
+<param name="Этаж">1</param>
+<price from="true">5112870</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">25,1</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6c8f15eb855e44bf9eca0c4740040129.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s112</set-ids>
+</offer>
+<offer id="21">
+<name>3-комнатная 78,8м²</name>
+<url>https://legendamarusino.ru/flats/2b8a724c-c7c2-4c4b-8324-207066cf4423</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 32</param>
+<param name="Этаж">2</param>
+<price from="true">14320087,6</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">78,8</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1e2c68835cf54956b1c2bbbae3c27be7.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s135,s131</set-ids>
+</offer>
+<offer id="22">
+<name>Студия 24,6м²</name>
+<url>https://legendamarusino.ru/flats/0364f15a-f0e1-4016-80d1-159dd8ba029c</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 34</param>
+<param name="Этаж">2</param>
+<price from="true">5158251</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">24,6</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b982c44f2d03487d8f701742d724f630.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="23">
+<name>1-комнатная 36,3м²</name>
+<url>https://legendamarusino.ru/flats/4e2f1b32-836d-44c7-ac42-17a2ea6be03b</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 35</param>
+<param name="Этаж">2</param>
+<price from="true">6959145,6</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">36,3</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e8445f97fb2e4562a097b2bf415e1424.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="24">
+<name>Студия 24м²</name>
+<url>https://legendamarusino.ru/flats/84b2d161-dd9e-4404-b151-43a2c9b9ee0f</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 36</param>
+<param name="Этаж">2</param>
+<price from="true">5032440</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">24</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/f8ffd3d8a3c4476c9469421f6369176d.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="25">
+<name>3-комнатная 59,9м²</name>
+<url>https://legendamarusino.ru/flats/bc4f210f-7f3b-46c8-966a-d2c681e58aaa</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 37</param>
+<param name="Этаж">2</param>
+<price from="true">11184528</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">59,9</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6eca01cc34a54112a4f142817d969a48.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s131,s133,s137</set-ids>
+</offer>
+<offer id="26">
+<name>3-комнатная 78,6м²</name>
+<url>https://legendamarusino.ru/flats/b4ae2978-6b18-4a85-b308-7e6a43d94997</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 39</param>
+<param name="Этаж">3</param>
+<price from="true">14305200</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">78,6</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1cf2420f2bf94e448bf0878b561a873f.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s135,s131</set-ids>
+</offer>
+<offer id="27">
+<name>1-комнатная 36,2м²</name>
+<url>https://legendamarusino.ru/flats/0a4161ac-6906-49b7-87ef-1ed63be0defe</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 42</param>
+<param name="Этаж">3</param>
+<price from="true">6950400</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">36,2</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/69cb2ee5889847be809b5c8859b49a28.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="28">
+<name>3-комнатная 78,8м²</name>
+<url>https://legendamarusino.ru/flats/e5be227a-3f83-480e-9548-8ff5be0fd546</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 46</param>
+<param name="Этаж">4</param>
+<price from="true">14363112,4</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">78,8</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/15b30dad1ea64e7ba11d2f55332dd4c3.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s135,s131</set-ids>
+</offer>
+<offer id="29">
+<name>1-комнатная 36,3м²</name>
+<url>https://legendamarusino.ru/flats/adba2760-b9bc-4155-993f-e93eaa82a776</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 49</param>
+<param name="Этаж">4</param>
+<price from="true">6980054,4</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">36,3</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/fd4aef60214f468fbdae75aab1a26d66.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="30">
+<name>Студия 24м²</name>
+<url>https://legendamarusino.ru/flats/8b0ef2e4-028b-4d7f-9491-da20b0e5d3d2</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 50</param>
+<param name="Этаж">4</param>
+<price from="true">5047560</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">24</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/44561cdcf51b46519d7d491251210a2b.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="31">
+<name>3-комнатная 59,9м²</name>
+<url>https://legendamarusino.ru/flats/f1eed831-5e6a-4943-8739-a2a92f1c594a</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 51</param>
+<param name="Этаж">4</param>
+<price from="true">11218072</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">59,9</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/9c1a75a015574afe828b5d563ca975f7.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s131,s133,s137</set-ids>
+</offer>
+<offer id="32">
+<name>3-комнатная 78,6м²</name>
+<url>https://legendamarusino.ru/flats/eaf5f955-4cff-47d0-8b4d-69e6eb126a16</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 53</param>
+<param name="Этаж">5</param>
+<price from="true">14348115,6</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">78,6</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d05fd11c54a641b28a2ceb62aedf363e.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s135,s131</set-ids>
+</offer>
+<offer id="33">
+<name>1-комнатная 41,6м²</name>
+<url>https://legendamarusino.ru/flats/606050c2-b43a-4d12-ae6b-273979837faa</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 54</param>
+<param name="Этаж">5</param>
+<price from="true">7927712</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">41,6</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/8f1a840dfc0646029b7d213baa836bf7.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="34">
+<name>1-комнатная 36,2м²</name>
+<url>https://legendamarusino.ru/flats/c2f61e11-0478-41a1-bd85-5e78b92c6d0f</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 56</param>
+<param name="Этаж">5</param>
+<price from="true">6971251,2</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">36,2</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/8351bd1970354ad392b474774a3610d1.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="35">
+<name>3-комнатная 59,7м²</name>
+<url>https://legendamarusino.ru/flats/ffa8bc8b-6e7b-4f5b-8ba2-fc620d38e5a8</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 58</param>
+<param name="Этаж">5</param>
+<price from="true">11197391,7</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">59,7</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1681272256394daf926be2bbad66161a.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s131,s133,s137</set-ids>
+</offer>
+<offer id="36">
+<name>2-комнатная 65,6м²</name>
+<url>https://legendamarusino.ru/flats/23adfa3f-00f9-410d-a90c-dfff0199bce8</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 59</param>
+<param name="Этаж">5</param>
+<price from="true">12172408</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">65,6</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/932e0f6be5994bb5976da0bb9d28a24a.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s125,s121,s127</set-ids>
+</offer>
+<offer id="37">
+<name>3-комнатная 78,8м²</name>
+<url>https://legendamarusino.ru/flats/f49df59a-104b-4650-8972-2cb4f112187e</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 60</param>
+<param name="Этаж">6</param>
+<price from="true">14406216</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">78,8</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/bdf3bee32e21494a9817111dd6d5f28c.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s135,s131,s132</set-ids>
+</offer>
+<offer id="39">
+<name>Студия 24м²</name>
+<url>https://legendamarusino.ru/flats/23336c26-bdf7-4603-af12-055b779c2676</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 64</param>
+<param name="Этаж">6</param>
+<price from="true">5062680</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">24</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/f30ed4d5080e41aeba88fc477f8a6641.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s112</set-ids>
+</offer>
+<offer id="40">
+<name>3-комнатная 59,9м²</name>
+<url>https://legendamarusino.ru/flats/3ad7fd6e-38ef-4ee1-97cb-8b79b06badf4</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 65</param>
+<param name="Этаж">6</param>
+<price from="true">11251616</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">59,9</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/445d4b65b28049ee93ab07210beb793d.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s131,s133,s137,s132</set-ids>
+</offer>
+<offer id="41">
+<name>1-комнатная 38,4м²</name>
+<url>https://legendamarusino.ru/flats/fc738c33-91de-4acd-8c4e-5e82bb10d9d4</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 67</param>
+<param name="Этаж">1</param>
+<price from="true">7077120</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">38,4</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/3432d243631f4eaeb63fd818f7f72a13.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s112</set-ids>
+</offer>
+<offer id="42">
+<name>2-комнатная 46,9м²</name>
+<url>https://legendamarusino.ru/flats/6882346a-4501-45e2-bc09-d6b81fc209cd</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 74</param>
+<param name="Этаж">2</param>
+<price from="true">8757168</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">46,9</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6d70ba0975c6429f9e220f5ce5942aec.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s127</set-ids>
+</offer>
+<offer id="43">
+<name>3-комнатная 72,2м²</name>
+<url>https://legendamarusino.ru/flats/d9aab4fa-67fb-4060-95a2-a19583b66dd0</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 75</param>
+<param name="Этаж">2</param>
+<price from="true">13337145</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">72,2</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/5b7de094fed94eeea78014ecd114ecba.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s135,s131,s133,s137</set-ids>
+</offer>
+<offer id="44">
+<name>Студия 22м²</name>
+<url>https://legendamarusino.ru/flats/de6f458d-212f-4e2a-a698-b50047f628f8</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 78</param>
+<param name="Этаж">2</param>
+<price from="true">4613070</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">22</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/97879be3697b4c24b58cc08f652d2161.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="45">
+<name>1-комнатная 33,2м²</name>
+<url>https://legendamarusino.ru/flats/b3747b26-2295-497f-8d62-3abf0ba84f39</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 81</param>
+<param name="Этаж">2</param>
+<price from="true">6364772</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">33,2</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/9791ababd5c2427d835ac77e31d6b83d.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="46">
+<name>2-комнатная 46,9м²</name>
+<url>https://legendamarusino.ru/flats/e6b2da62-3cd1-4c1b-b19c-092bfa8feb2d</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 82</param>
+<param name="Этаж">3</param>
+<price from="true">8770300</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">46,9</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/dc5943a5d8024dcebff1288488eacb49.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s127</set-ids>
+</offer>
+<offer id="47">
+<name>1-комнатная 41м²</name>
+<url>https://legendamarusino.ru/flats/b8c441d4-b5f2-4f9d-9fc5-88e175c0007d</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 84</param>
+<param name="Этаж">3</param>
+<price from="true">7790000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">41</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/bc07a1d5a0054ea9ad4c0786bd232ad5.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115,s111</set-ids>
+</offer>
+<offer id="48">
+<name>Студия 22,1м²</name>
+<url>https://legendamarusino.ru/flats/bd378a31-98f3-4430-a4ac-ce63b9f751de</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 86</param>
+<param name="Этаж">3</param>
+<price from="true">4641000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">22,1</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/7acc172ca0534a91a42b6ac382e999e5.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="49">
+<name>2-комнатная 56,9м²</name>
+<url>https://legendamarusino.ru/flats/4330ddf3-1057-4dc8-9801-3a74d9e1a7b2</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 87</param>
+<param name="Этаж">3</param>
+<price from="true">10298900</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">56,9</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1d3ace10a92245dfbca90cadb575e052.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121</set-ids>
+</offer>
+<offer id="50">
+<name>3-комнатная 72,2м²</name>
+<url>https://legendamarusino.ru/flats/e610360c-19fa-4d79-88f4-4b601fe144de</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 91</param>
+<param name="Этаж">4</param>
+<price from="true">13377216</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">72,2</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b9d91c3479d94100b09cacfe59fc92e3.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s135,s131,s133,s137</set-ids>
+</offer>
+<offer id="51">
+<name>1-комнатная 41м²</name>
+<url>https://legendamarusino.ru/flats/9f12888d-76a2-40ba-96a8-4c292f751e2f</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 92</param>
+<param name="Этаж">4</param>
+<price from="true">7801685</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">41</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/98c8d4ca6f2545d1a4166277b75724cb.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115,s111</set-ids>
+</offer>
+<offer id="52">
+<name>Студия 22м²</name>
+<url>https://legendamarusino.ru/flats/cd19a119-ddd7-45b0-9df3-fb12225aa0fa</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 94</param>
+<param name="Этаж">4</param>
+<price from="true">4626930</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">22</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/7538c7a80b5941c0a13bbc6cd6d370b2.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="53">
+<name>1-комнатная 33,2м²</name>
+<url>https://legendamarusino.ru/flats/6082835d-a707-4ee9-b1dc-ae55544dec7e</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 97</param>
+<param name="Этаж">4</param>
+<price from="true">6384028</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">33,2</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/956fa7f0e4cc400a81bdd245739229c8.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="54">
+<name>2-комнатная 46,9м²</name>
+<url>https://legendamarusino.ru/flats/30877adf-0a76-44fd-9377-31e954cb2b59</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 98</param>
+<param name="Этаж">5</param>
+<price from="true">8796564</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">46,9</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/3f4469c376b445ce9d6612a8be737a98.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s127</set-ids>
+</offer>
+<offer id="55">
+<name>1-комнатная 41,4м²</name>
+<url>https://legendamarusino.ru/flats/03e9f180-ef9a-467d-a32f-937f24b7d129</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 101</param>
+<param name="Этаж">5</param>
+<price from="true">7889598</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">41,4</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/7729fa56a2be462c8dcb6906f2a77399.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115</set-ids>
+</offer>
+<offer id="56">
+<name>Студия 22,1м²</name>
+<url>https://legendamarusino.ru/flats/5c19b5f7-25be-4145-a2a4-cb116a410b75</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 102</param>
+<param name="Этаж">5</param>
+<price from="true">4654923</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">22,1</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d51e38f700fd429db29f8f4517f0b550.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="57">
+<name>1-комнатная 33,1м²</name>
+<url>https://legendamarusino.ru/flats/81810f3f-0e07-439d-88ef-af9a76b4b3b5</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 105</param>
+<param name="Этаж">5</param>
+<price from="true">6374398</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">33,1</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/597496660d5b4c39900c35649dc090d9.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="58">
+<name>Студия 22м²</name>
+<url>https://legendamarusino.ru/flats/cce05737-118d-4db5-aa8e-51c649012dc7</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 110</param>
+<param name="Этаж">6</param>
+<price from="true">4640790</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">22</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1cdc44ee9e834444a10c9b0a1a942c04.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s112</set-ids>
+</offer>
+<offer id="59">
+<name>1-комнатная 33,1м²</name>
+<url>https://legendamarusino.ru/flats/2147eacb-54f9-408f-aa0d-711b351d637c</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 113</param>
+<param name="Этаж">6</param>
+<price from="true">6383997</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">33,1</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/407b84cc8acf448aa008d7d6163df362.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111,s112</set-ids>
+</offer>
+<offer id="61">
+<name>2-комнатная 55,9м²</name>
+<url>https://legendamarusino.ru/flats/13ab6a5c-c074-4d68-96c3-f06b8e56f501</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 121</param>
+<param name="Этаж">2</param>
+<price from="true">10102807</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">55,9</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6e1c4efb4b9e4cf1b40591130fa9c8f4.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="62">
+<name>Студия 21,3м²</name>
+<url>https://legendamarusino.ru/flats/d67051e8-6305-4b7b-91d0-7ca4d8b42529</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 123</param>
+<param name="Этаж">2</param>
+<price from="true">4466397</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">21,3</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/fa9da8b8b32b47859d3daa1c0eba95ba.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="63">
+<name>1-комнатная 38,7м²</name>
+<url>https://legendamarusino.ru/flats/b33b059b-40cb-4f38-9a2f-c929d8ad520c</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 124</param>
+<param name="Этаж">2</param>
+<price from="true">7342164</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">38,7</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/770a6f00e40e467098d17d570c7bf76d.svg@svg</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="64">
+<name>2-комнатная 62,1м²</name>
+<url>https://legendamarusino.ru/flats/a7851a4a-2426-497d-849d-179f9ae44b00</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 131</param>
+<param name="Этаж">3</param>
+<price from="true">11178000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">62,1</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/99a4829d4067456faca9d09637095891.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123,s126</set-ids>
+</offer>
+<offer id="65">
+<name>Студия 23,5м²</name>
+<url>https://legendamarusino.ru/flats/c9256911-976c-4055-a4c9-fe1ad2418894</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 133</param>
+<param name="Этаж">3</param>
+<price from="true">4935000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">23,5</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/3e9125bb30e245f99ea87876afc1b0cf.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="66">
+<name>Студия 21,1м²</name>
+<url>https://legendamarusino.ru/flats/679d6512-5af7-461a-ae0a-861cdd383426</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 134</param>
+<param name="Этаж">3</param>
+<price from="true">4431000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">21,1</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/408a28c4a7bb44c68af92ba317527178.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="67">
+<name>1-комнатная 38,7м²</name>
+<url>https://legendamarusino.ru/flats/d83a4a56-0407-46e3-9f34-f0a31b0622ff</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 135</param>
+<param name="Этаж">3</param>
+<price from="true">7353000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">38,7</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/ed566406707549499769e55c4bf4f13f.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="68">
+<name>Студия 31,9м²</name>
+<url>https://legendamarusino.ru/flats/bd798d6a-6de5-4343-a7c9-d39c5277b1d1</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 140</param>
+<param name="Этаж">3</param>
+<price from="true">6380000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">31,9</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/8dacfe2627c8405f9d10ee6213885e37.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="69">
+<name>2-комнатная 58,8м²</name>
+<url>https://legendamarusino.ru/flats/6b5616c0-dc52-4509-bbcd-bfc930c9e9a9</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 141</param>
+<param name="Этаж">3</param>
+<price from="true">10642800</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">58,8</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b7c6b2b6eaf843bba147fd5fd4eed17d.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="70">
+<name>2-комнатная 62,1м²</name>
+<url>https://legendamarusino.ru/flats/07188668-e7b9-4160-a75e-1bf274c3c6f9</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 142</param>
+<param name="Этаж">4</param>
+<price from="true">11194767</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">62,1</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a7fa6aea30f74f1c8e5f21db5fce7bdf.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="71">
+<name>2-комнатная 55,9м²</name>
+<url>https://legendamarusino.ru/flats/7caba9d2-e592-486a-853c-7774ffaa5272</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 143</param>
+<param name="Этаж">4</param>
+<price from="true">10132993</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">55,9</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/0bb04412c88446d9b357b27037dfd1e5.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="72">
+<name>Студия 23,3м²</name>
+<url>https://legendamarusino.ru/flats/54315d90-b99a-45a3-b32f-c05dac9dbd86</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 144</param>
+<param name="Этаж">4</param>
+<price from="true">4900456</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">23,3</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/0cc5581123544af68983eac8a1d2feaa.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="73">
+<name>Студия 21,3м²</name>
+<url>https://legendamarusino.ru/flats/1ff29a0f-b846-422b-9ef4-f6442d1709d6</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 145</param>
+<param name="Этаж">4</param>
+<price from="true">4479816</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">21,3</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1db5796a4a184fc5a83922a7423330e7.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="74">
+<name>Студия 31,9м²</name>
+<url>https://legendamarusino.ru/flats/73202e07-d2e2-4549-9d7a-fe1d9775a2d2</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 151</param>
+<param name="Этаж">4</param>
+<price from="true">6389570</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">31,9</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e8ee213e9709481daf472c0db750de2c.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="75">
+<name>1-комнатная 33,4м²</name>
+<url>https://legendamarusino.ru/flats/88be2cf4-337c-481f-9495-5113163b66ff</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 153</param>
+<param name="Этаж">5</param>
+<price from="true">6432172</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">33,4</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/4144f150f0e640ba92301cfd468d640c.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111,s113</set-ids>
+</offer>
+<offer id="76">
+<name>2-комнатная 43,1м²</name>
+<url>https://legendamarusino.ru/flats/6493c9bb-90e9-4272-a515-1eb4ae00831f</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 154</param>
+<param name="Этаж">5</param>
+<price from="true">8083836</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">43,1</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/43296c71aaa94ef2b8cca95bf2f365d5.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123,s127</set-ids>
+</offer>
+<offer id="77">
+<name>1-комнатная 38,7м²</name>
+<url>https://legendamarusino.ru/flats/0db1e376-7af9-47c1-88e3-5cf206548346</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 155</param>
+<param name="Этаж">5</param>
+<price from="true">7375059</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">38,7</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a6e9d19ffbad43f888987c5350f66f00.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="78">
+<name>1-комнатная 40,4м²</name>
+<url>https://legendamarusino.ru/flats/e990de39-c946-40ae-a8fa-c5000be0c90c</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 157</param>
+<param name="Этаж">5</param>
+<price from="true">7699028</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">40,4</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/9fe89fe3dbc345f7b685715c52348b40.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="79">
+<name>2-комнатная 58,7м²</name>
+<url>https://legendamarusino.ru/flats/5f197e73-9ce8-49da-b80a-934a063afd64</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 161</param>
+<param name="Этаж">5</param>
+<price from="true">10656398</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">58,7</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/8ca437b44f3e47f1ba845047b4adfb5c.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="80">
+<name>1-комнатная 33,4м²</name>
+<url>https://legendamarusino.ru/flats/1ab27c67-40cc-45d1-8a16-f96dac123e42</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 162</param>
+<param name="Этаж">6</param>
+<price from="true">6441691</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">33,4</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/71b1e13bb3604650bac23a88d7331656.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111,s113</set-ids>
+</offer>
+<offer id="81">
+<name>2-комнатная 43,1м²</name>
+<url>https://legendamarusino.ru/flats/4eef8121-ed78-4ec0-84c4-35a96212830f</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 163</param>
+<param name="Этаж">6</param>
+<price from="true">8095904</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">43,1</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a0e7e6d4ceef4f62a0e1981a79a10251.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123,s127</set-ids>
+</offer>
+<offer id="82">
+<name>Студия 23,4м²</name>
+<url>https://legendamarusino.ru/flats/c17ee079-b426-4295-bbc8-0125492f6d02</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 165</param>
+<param name="Этаж">6</param>
+<price from="true">4936230</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">23,4</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/85ad22619fd34e3b8370924020657359.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="83">
+<name>Студия 23,7м²</name>
+<url>https://legendamarusino.ru/flats/22c49cd7-047c-4248-918e-14ded0516f20</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 167</param>
+<param name="Этаж">6</param>
+<price from="true">4999515</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">23,7</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c2711191cdc647d59c6b50ebc2644df7.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="84">
+<name>Студия 31,9м²</name>
+<url>https://legendamarusino.ru/flats/b7cec5fa-3d9e-4175-81c9-91d89450333a</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 169</param>
+<param name="Этаж">6</param>
+<price from="true">6408710</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">31,9</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e6f69a3bf1f54ef7a57eef3693b99af8.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="85">
+<name>2-комнатная 58,9м²</name>
+<url>https://legendamarusino.ru/flats/55bf7454-6e5b-4d22-8bf7-bfc5e3dc7381</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 170</param>
+<param name="Этаж">6</param>
+<price from="true">10709198</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">58,9</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/91f75b703611493f92e7a082a6838616.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="86">
+<name>3-комнатная 67,4м²</name>
+<url>https://legendamarusino.ru/flats/0b07e23d-8d9e-4260-9af7-06e185210a7a</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 180</param>
+<param name="Этаж">2</param>
+<price from="true">12584928</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">67,4</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2155e04dc7844cfd9eebdd72d16077fe.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s131,s133,s136</set-ids>
+</offer>
+<offer id="87">
+<name>2-комнатная 50м²</name>
+<url>https://legendamarusino.ru/flats/5e43cd03-fd87-479d-8cc0-9f46d5552c4b</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 181</param>
+<param name="Этаж">2</param>
+<price from="true">9136300</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">50</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c0a4fae2c74d4dc39658ed93ad079f75.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="88">
+<name>Студия 21,4м²</name>
+<url>https://legendamarusino.ru/flats/75e4b9fa-cdda-470b-98d6-ce45b5ebd0ab</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 183</param>
+<param name="Этаж">2</param>
+<price from="true">4487366</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">21,4</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/f7f057b4807a4d5487e1e62e289112ad.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="89">
+<name>3-комнатная 67,6м²</name>
+<url>https://legendamarusino.ru/flats/ea1d1a02-679b-4979-866a-05a07c05d734</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 188</param>
+<param name="Этаж">2</param>
+<price from="true">12487410</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">67,6</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/15a76371a7a14b66a002e4c7dbb67772.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s131,s133,s137</set-ids>
+</offer>
+<offer id="90">
+<name>3-комнатная 67,3м²</name>
+<url>https://legendamarusino.ru/flats/edc0135c-e3d8-4d8c-99ea-ed7562eefaae</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 190</param>
+<param name="Этаж">3</param>
+<price from="true">12585100</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">67,3</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/521ead22847a49578a1607ec29570b0e.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s131,s133</set-ids>
+</offer>
+<offer id="91">
+<name>2-комнатная 49,8м²</name>
+<url>https://legendamarusino.ru/flats/587af60c-d241-4aee-bd60-782b4834814b</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 191</param>
+<param name="Этаж">3</param>
+<price from="true">9113400</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">49,8</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b20c06753cbd4f21a3ce324a2b428cdc.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="92">
+<name>Студия 23,5м²</name>
+<url>https://legendamarusino.ru/flats/28f07c2b-e24f-45c2-bd6c-da523715519f</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 192</param>
+<param name="Этаж">3</param>
+<price from="true">4935000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">23,5</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/aa3a87bb862347dabc3d22824049b11c.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="93">
+<name>Студия 21,2м²</name>
+<url>https://legendamarusino.ru/flats/cb971598-45a0-4879-b5c1-98b3fc82c0f1</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 193</param>
+<param name="Этаж">3</param>
+<price from="true">4452000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">21,2</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e382b8feb6c54d1a891bc4b73c31a25d.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="94">
+<name>1-комнатная 39,5м²</name>
+<url>https://legendamarusino.ru/flats/12a6fa9b-b3fc-4591-9606-e6f92cf1743c</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 194</param>
+<param name="Этаж">3</param>
+<price from="true">7505000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">39,5</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/78a8ef4defa24eebb0820829011b0ba6.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="95">
+<name>3-комнатная 67,8м²</name>
+<url>https://legendamarusino.ru/flats/a9223e01-972a-445d-8805-529094d9f7ab</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 198</param>
+<param name="Этаж">3</param>
+<price from="true">12543000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">67,8</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/75d7e507be16454b93964335f9c16da0.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s131,s133,s137</set-ids>
+</offer>
+<offer id="96">
+<name>3-комнатная 67,4м²</name>
+<url>https://legendamarusino.ru/flats/34ee229b-f0e0-4799-bfd3-e60acaa0d867</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 200</param>
+<param name="Этаж">4</param>
+<price from="true">12622672</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">67,4</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b04af1963d4d491880a5893651a1c2cb.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s131,s133,s136</set-ids>
+</offer>
+<offer id="97">
+<name>2-комнатная 50м²</name>
+<url>https://legendamarusino.ru/flats/113b94d4-2897-4238-beac-bc6cf2f884a4</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 201</param>
+<param name="Этаж">4</param>
+<price from="true">9163750</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">50</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/89803bca0a07425787190182b1cb0153.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="98">
+<name>Студия 21,4м²</name>
+<url>https://legendamarusino.ru/flats/104399fe-5646-48ef-9f40-811df9b8a1b0</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 203</param>
+<param name="Этаж">4</param>
+<price from="true">4500848</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">21,4</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/9f03df624a8d46ed977ee566d6a828ac.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="99">
+<name>1-комнатная 40,4м²</name>
+<url>https://legendamarusino.ru/flats/c461a62e-60fb-4d47-a00d-0a9fade16c92</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 206</param>
+<param name="Этаж">4</param>
+<price from="true">7687716</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">40,4</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/4d31c5ff5cac4c0790af07b1f4cc67e3.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="100">
+<name>3-комнатная 67,6м²</name>
+<url>https://legendamarusino.ru/flats/879db1e1-dc2c-46e0-a4d5-c049929cc9b2</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 208</param>
+<param name="Этаж">4</param>
+<price from="true">12524928</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">67,6</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/47f9266b22614665a3ccfa9ec4e768f1.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s131,s133,s137</set-ids>
+</offer>
+<offer id="101">
+<name>2-комнатная 64,2м²</name>
+<url>https://legendamarusino.ru/flats/87a63f1a-f0df-443d-9caa-34e4cc616db3</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 209</param>
+<param name="Этаж">4</param>
+<price from="true">11573334</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">64,2</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d1f2b517a7714ed68d60ed73b123a5eb.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="102">
+<name>1-комнатная 32,7м²</name>
+<url>https://legendamarusino.ru/flats/ae6fb4ba-41da-4228-8f41-9ef9bae62053</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 210</param>
+<param name="Этаж">5</param>
+<price from="true">6297366</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">32,7</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2eddfeb574ee492f848205eb2345cf15.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115,s111,s113</set-ids>
+</offer>
+<offer id="104">
+<name>1-комнатная 39,5м²</name>
+<url>https://legendamarusino.ru/flats/e438a120-a64a-4db8-aa0d-f5c311bfdf57</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 213</param>
+<param name="Этаж">5</param>
+<price from="true">7527515</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">39,5</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/3d28556a9979401695d01dd142c3a3f2.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="105">
+<name>Студия 23,5м²</name>
+<url>https://legendamarusino.ru/flats/f110964e-52f5-4cda-b1fb-76f948ef7241</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 214</param>
+<param name="Этаж">5</param>
+<price from="true">4949805</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">23,5</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a2afe155a8fa40f5816759b7458bccec.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="106">
+<name>3-комнатная 67,8м²</name>
+<url>https://legendamarusino.ru/flats/b6c19fe6-e9f6-4765-a4d8-2889bde05ff2</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 217</param>
+<param name="Этаж">5</param>
+<price from="true">12580629</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">67,8</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/5a465347a4c640fb9058e4412cba2583.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s131,s133,s137</set-ids>
+</offer>
+<offer id="107">
+<name>1-комнатная 32,7м²</name>
+<url>https://legendamarusino.ru/flats/8bc4cea9-35d6-4f5f-a3b5-b3d03e07828e</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 219</param>
+<param name="Этаж">6</param>
+<price from="true">6306522</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">32,7</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/14ecadce18d0402ea162ed0491f0f237.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115,s111,s113</set-ids>
+</offer>
+<offer id="108">
+<name>Студия 20,9м²</name>
+<url>https://legendamarusino.ru/flats/60c1eeaa-f6dd-4b2e-9c80-90174ecacf47</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 220</param>
+<param name="Этаж">6</param>
+<price from="true">4408855</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">20,9</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/4afd4d02e008482da5ab4a518075fff0.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s113</set-ids>
+</offer>
+<offer id="109">
+<name>Студия 21,4м²</name>
+<url>https://legendamarusino.ru/flats/ab3a8d7f-4cfe-4960-a2bb-14a795d530f9</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 221</param>
+<param name="Этаж">6</param>
+<price from="true">4514330</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">21,4</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2e1a1070535f4f969d644980daa7c2ca.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="110">
+<name>1-комнатная 39,5м²</name>
+<url>https://legendamarusino.ru/flats/2ed2aed7-1f95-43aa-9eb8-2cd11baca066</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 222</param>
+<param name="Этаж">6</param>
+<price from="true">7540155</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">39,5</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/55eded46fce24eb781900b45a2ee6aa6.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="111">
+<name>1-комнатная 40,4м²</name>
+<url>https://legendamarusino.ru/flats/4d9eb7d5-9758-448d-9a7c-9554cd4b079d</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 224</param>
+<param name="Этаж">6</param>
+<price from="true">7711956</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">40,4</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e0c60abea44e4a1dbbc8e2c4c4971dce.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="112">
+<name>Студия 23,5м²</name>
+<url>https://legendamarusino.ru/flats/6d5fa4d0-a0dc-466a-a47f-895b809ed3fc</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 225</param>
+<param name="Этаж">6</param>
+<price from="true">4957325</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">23,5</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/76224f416b214159b109704de6aac076.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="113">
+<name>3-комнатная 67,6м²</name>
+<url>https://legendamarusino.ru/flats/cc308218-c83a-4ae3-b1f3-5c7c5144a315</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 226</param>
+<param name="Этаж">6</param>
+<price from="true">12562446</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">67,6</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b3588ba591224250be2c052bd62117cf.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s131,s133,s137</set-ids>
+</offer>
+<offer id="114">
+<name>Студия 52,4м²</name>
+<url>https://legendamarusino.ru/flats/3b09a6d3-45f7-4e52-b4b1-d40cfd34d0ed</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 228</param>
+<param name="Этаж">7</param>
+<price from="true">10542880</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">52,4</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/973e39cf50924e1295164e10127d5717.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s113,s112</set-ids>
+</offer>
+<offer id="115">
+<name>Студия 29,7м²</name>
+<url>https://legendamarusino.ru/flats/5aa7db96-7cd2-41b6-9fcc-d86ffd4b364a</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 229</param>
+<param name="Этаж">7</param>
+<price from="true">5975640</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">29,7</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d4e2b4c81da146e78e4b1628a1dcd248.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s112</set-ids>
+</offer>
+<offer id="116">
+<name>2-комнатная 60,7м²</name>
+<url>https://legendamarusino.ru/flats/92d700a9-9b92-4d66-b137-a33a0c81b8ab</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 238</param>
+<param name="Этаж">1</param>
+<price from="true">10598220</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">60,7</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/79007d1d3fee4fb7accd6f521b0ee6d6.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s123,s122</set-ids>
+</offer>
+<offer id="117">
+<name>2-комнатная 52,6м²</name>
+<url>https://legendamarusino.ru/flats/e1787512-6825-4530-aae3-a05dd2890b97</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 239</param>
+<param name="Этаж">1</param>
+<price from="true">9541114</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">52,6</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d75145af6c6c484e8e56e8fedb4fa7e2.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s127,s122</set-ids>
+</offer>
+<offer id="118">
+<name>Студия 29,9м²</name>
+<url>https://legendamarusino.ru/flats/bfe83759-a422-408a-bd9f-4337a29e27cf</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 243</param>
+<param name="Этаж">2</param>
+<price from="true">5971030</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">29,9</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/04c2faaccc014023991697bcf5345eb0.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="119">
+<name>1-комнатная 39,8м²</name>
+<url>https://legendamarusino.ru/flats/82cc38c3-b1f1-4961-b136-b46e59ea01d0</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 244</param>
+<param name="Этаж">2</param>
+<price from="true">7550856</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">39,8</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6317ad366d9d4fbbbb9d838d49b88c32.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="120">
+<name>1-комнатная 42,6м²</name>
+<url>https://legendamarusino.ru/flats/80f76cd5-b673-4380-9a7e-227386d2d6d0</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 245</param>
+<param name="Этаж">2</param>
+<price from="true">8082072</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">42,6</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c49eee553e2d4ef39cddc4dc35e9c8d8.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115,s111</set-ids>
+</offer>
+<offer id="121">
+<name>2-комнатная 63,1м²</name>
+<url>https://legendamarusino.ru/flats/808fe01f-cce1-4e37-b71a-b3dce2715e72</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 254</param>
+<param name="Этаж">3</param>
+<price from="true">11358000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">63,1</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/287f87443cb44c34b45a049a8bf9a35f.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="122">
+<name>1-комнатная 32,9м²</name>
+<url>https://legendamarusino.ru/flats/43876fd3-de44-4453-9677-baafd4185823</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 257</param>
+<param name="Этаж">4</param>
+<price from="true">6326341</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">32,9</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/04e94e17d6554ecd8cd2d2d05e329015.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="123">
+<name>1-комнатная 41,8м²</name>
+<url>https://legendamarusino.ru/flats/de3428ec-ede5-47e7-95b6-b026a1530e34</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 258</param>
+<param name="Этаж">4</param>
+<price from="true">7954122</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">41,8</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/f4a0728eec6d44409c807021e22a10a3.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="124">
+<name>2-комнатная 45,8м²</name>
+<url>https://legendamarusino.ru/flats/7ff2d5f2-96dc-40db-b763-173332d54e3a</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 264</param>
+<param name="Этаж">4</param>
+<price from="true">8577424</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">45,8</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b1ca5d58f0a44289aed36d30c38f232d.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s127</set-ids>
+</offer>
+<offer id="125">
+<name>Студия 30м²</name>
+<url>https://legendamarusino.ru/flats/d5b5629e-602b-4167-8815-c9d10b02e53a</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 267</param>
+<param name="Этаж">5</param>
+<price from="true">6018000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">30</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/940ad92e35f94d31b00cc8a9378b57e6.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111,s113</set-ids>
+</offer>
+<offer id="126">
+<name>2-комнатная 52,1м²</name>
+<url>https://legendamarusino.ru/flats/72e0a599-e177-4484-85f6-5401d6d9d19c</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 271</param>
+<param name="Этаж">5</param>
+<price from="true">9562955</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">52,1</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/cdf6a67cd6944b7f8129b191ba587e3e.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123</set-ids>
+</offer>
+<offer id="127">
+<name>1-комнатная 32,9м²</name>
+<url>https://legendamarusino.ru/flats/0a3889cc-4f91-4c1a-ade0-1054efcc3c94</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 273</param>
+<param name="Этаж">6</param>
+<price from="true">6345423</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">32,9</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/27d14d1916a64f3ab0f9071532d04907.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111,s112</set-ids>
+</offer>
+<offer id="128">
+<name>Студия 29,9м²</name>
+<url>https://legendamarusino.ru/flats/45ebfcfe-8b14-4212-87e0-b2b574d26bb6</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 275</param>
+<param name="Этаж">6</param>
+<price from="true">6006910</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">29,9</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/dbd60dcdc6d74139a3b6985f40330ea3.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s113,s112</set-ids>
+</offer>
+<offer id="129">
+<name>1-комнатная 39,7м²</name>
+<url>https://legendamarusino.ru/flats/ad1b22ce-2abd-4299-83d7-9f44f48c8c9e</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 276</param>
+<param name="Этаж">6</param>
+<price from="true">7577142</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">39,7</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/76f43f559d1a4557b2ae02d61e56e52a.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111,s112</set-ids>
+</offer>
+<offer id="130">
+<name>1-комнатная 42,6м²</name>
+<url>https://legendamarusino.ru/flats/0527045b-7a7f-4958-9b7d-f8270353e1b9</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 277</param>
+<param name="Этаж">6</param>
+<price from="true">8130636</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">42,6</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/9fd49913a7084ce1a98225462886fc68.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115,s111,s112</set-ids>
+</offer>
+<offer id="131">
+<name>2-комнатная 52,1м²</name>
+<url>https://legendamarusino.ru/flats/0187ae10-7e7c-4de3-891e-51c07f8993ca</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 279</param>
+<param name="Этаж">6</param>
+<price from="true">9577543</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">52,1</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2737d70bbb7c4d1eaca28f7f8072f84a.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123,s122</set-ids>
+</offer>
+<offer id="132">
+<name>2-комнатная 45,9м²</name>
+<url>https://legendamarusino.ru/flats/8d4c185d-453d-4add-a58c-9a6bab61845f</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 280</param>
+<param name="Этаж">6</param>
+<price from="true">8622315</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">45,9</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c151548a68434149a8529556a5bafb7e.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s127,s122</set-ids>
+</offer>
+<offer id="133">
+<name>1-комнатная 48,9м²</name>
+<url>https://legendamarusino.ru/flats/ce5afc0a-2544-48b1-8753-43fd21fc0d77</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 281</param>
+<param name="Этаж">2</param>
+<price from="true">8935497</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">48,9</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/ab1abfa909134941984fb533c811a061.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115</set-ids>
+</offer>
+<offer id="134">
+<name>1-комнатная 43,8м²</name>
+<url>https://legendamarusino.ru/flats/cfa84655-a158-439c-ad04-a9dc9ed17a67</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 282</param>
+<param name="Этаж">2</param>
+<price from="true">8309736</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">43,8</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/833e049b303d4809b4b2c8202b9d73c9.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115,s111</set-ids>
+</offer>
+<offer id="135">
+<name>1-комнатная 35м²</name>
+<url>https://legendamarusino.ru/flats/e29356de-9305-40c8-9071-2ba40cb02954</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 286</param>
+<param name="Этаж">2</param>
+<price from="true">6709920</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">35</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e75ef8b9f1404d51976718c2aa4653fd.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="136">
+<name>1-комнатная 48,9м²</name>
+<url>https://legendamarusino.ru/flats/4e402d78-48ff-433a-b3e0-216c8bb8abbe</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 287</param>
+<param name="Этаж">3</param>
+<price from="true">8948700</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">48,9</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/baca26b00bbd43c695da49e6201cd247.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115</set-ids>
+</offer>
+<offer id="137">
+<name>1-комнатная 42,3м²</name>
+<url>https://legendamarusino.ru/flats/80976a51-f50e-4339-b2d2-deef044d254e</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 289</param>
+<param name="Этаж">3</param>
+<price from="true">8037000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">42,3</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/208e540491c04cc188cbdec5df011fc1.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115,s111</set-ids>
+</offer>
+<offer id="138">
+<name>3-комнатная 77,8м²</name>
+<url>https://legendamarusino.ru/flats/e82aa0bf-29b3-424a-bd1d-65ba146c7483</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 290</param>
+<param name="Этаж">3</param>
+<price from="true">14159600</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">77,8</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/f99bfa485b83455d849e926f71535327.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s135,s131,s133</set-ids>
+</offer>
+<offer id="139">
+<name>1-комнатная 35м²</name>
+<url>https://legendamarusino.ru/flats/1e459139-d7e6-4e25-ad18-8f7370a34368</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 292</param>
+<param name="Этаж">3</param>
+<price from="true">6720000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">35</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d9a8b4eafc5b4fccb2d45099d94a625a.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="140">
+<name>1-комнатная 48,9м²</name>
+<url>https://legendamarusino.ru/flats/5f1ce7d1-9927-423f-830f-282809a12842</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 293</param>
+<param name="Этаж">4</param>
+<price from="true">8962392</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">48,9</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/f84f01a4ac42449c9171b3c21dcd7a8e.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115,s112</set-ids>
+</offer>
+<offer id="141">
+<name>1-комнатная 42,3м²</name>
+<url>https://legendamarusino.ru/flats/a4159453-bad8-4dfb-8502-d79394a98721</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 295</param>
+<param name="Этаж">4</param>
+<price from="true">8049267</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">42,3</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/80b377ad8b284a84ad3e385b2958da82.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115,s111,s112</set-ids>
+</offer>
+<offer id="142">
+<name>3-комнатная 82,3м²</name>
+<url>https://legendamarusino.ru/flats/c5b8b9fa-753c-440a-8206-eed42fb09185</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 297</param>
+<param name="Этаж">4</param>
+<price from="true">15001644</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">82,3</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/eeb3f77e5e6f456687d6253f0c9f6198.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s135,s131,s136,s132</set-ids>
+</offer>
+<offer id="143">
+<name>1-комнатная 35м²</name>
+<url>https://legendamarusino.ru/flats/28f8fd67-3802-4f35-ac64-cb06d055484c</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 298</param>
+<param name="Этаж">4</param>
+<price from="true">6730150</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">35</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/8b199fe43d5d4c41b0b27f692ea1fff4.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111,s112</set-ids>
+</offer>
+<offer id="144">
+<name>1-комнатная 36,4м²</name>
+<url>https://legendamarusino.ru/flats/a7b5d481-a86d-4853-9ed5-028ffceb46cb</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 299</param>
+<param name="Этаж">1</param>
+<price from="true">6779136</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">36,4</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/aaeb2d9000cb43e6a69ab34e97f4bc23.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115,s112</set-ids>
+</offer>
+<offer id="145">
+<name>1-комнатная 36,1м²</name>
+<url>https://legendamarusino.ru/flats/566aba0a-a4b3-42fb-9e3c-f5df472e5e38</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 302</param>
+<param name="Этаж">2</param>
+<price from="true">6921092</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">36,1</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/0b14fa0bbbe844e298cfb91f779a941c.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115</set-ids>
+</offer>
+<offer id="146">
+<name>1-комнатная 39,7м²</name>
+<url>https://legendamarusino.ru/flats/e89fe13f-4fac-412a-9769-cc4568caa7b4</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 303</param>
+<param name="Этаж">2</param>
+<price from="true">7531884</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">39,7</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a7d4f80aa669461f8b9e03ed46106ffe.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="147">
+<name>1-комнатная 36,5м²</name>
+<url>https://legendamarusino.ru/flats/97113697-1fc5-4f3f-97fd-6875bc21483e</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 304</param>
+<param name="Этаж">2</param>
+<price from="true">6997780</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">36,5</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2f80599527fb4692bf0295c852e97cdd.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="148">
+<name>Студия 22,9м²</name>
+<url>https://legendamarusino.ru/flats/4c8e0ea8-2d74-4d70-9ff1-5a258968f027</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 305</param>
+<param name="Этаж">2</param>
+<price from="true">4801901</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">22,9</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/9a659a64e1e042ca872250afc3e9fc5b.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="149">
+<name>1-комнатная 35,9м²</name>
+<url>https://legendamarusino.ru/flats/87d17ba2-0ab1-405f-a30b-3b870b230557</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 306</param>
+<param name="Этаж">2</param>
+<price from="true">6882748</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">35,9</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e038101064bd42d9b6e63184fe707b81.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="150">
+<name>3-комнатная 75м²</name>
+<url>https://legendamarusino.ru/flats/2acfb867-0daf-43e2-b659-0080bc87190d</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 307</param>
+<param name="Этаж">2</param>
+<price from="true">13854750</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">75</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/869797a5d5c64b6faf9f46e1d1c4cc5b.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s135,s131,s137</set-ids>
+</offer>
+<offer id="151">
+<name>1-комнатная 36,2м²</name>
+<url>https://legendamarusino.ru/flats/567909d7-9bb8-4e4f-95f1-80aadea5c428</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 308</param>
+<param name="Этаж">3</param>
+<price from="true">6950400</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">36,2</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2fb611e9caf24781bf5eba266928f57e.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115,s111</set-ids>
+</offer>
+<offer id="152">
+<name>1-комнатная 39,7м²</name>
+<url>https://legendamarusino.ru/flats/626a6e2e-95f7-4a81-8114-55c77623b78c</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 309</param>
+<param name="Этаж">3</param>
+<price from="true">7543000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">39,7</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6efd4cec231e4d96a4b180059ece9a68.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="153">
+<name>1-комнатная 36,6м²</name>
+<url>https://legendamarusino.ru/flats/c166521a-3ab3-42c0-b228-6d85cdd32a18</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 310</param>
+<param name="Этаж">3</param>
+<price from="true">7027200</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">36,6</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/3f7f938969e54d76a8b51d072f9ec8ef.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="154">
+<name>Студия 23м²</name>
+<url>https://legendamarusino.ru/flats/504572b3-a85a-45d2-bd17-6269d3654eba</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 311</param>
+<param name="Этаж">3</param>
+<price from="true">4830000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">23</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6f2a3971b17042b199d7e0790df1cf10.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="155">
+<name>1-комнатная 35,8м²</name>
+<url>https://legendamarusino.ru/flats/251055bd-59b8-4604-bce5-33e92bae35a0</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 312</param>
+<param name="Этаж">3</param>
+<price from="true">6873600</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">35,8</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/fa9ee6d03bb848ab99c2ce273242ab81.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="156">
+<name>3-комнатная 74,9м²</name>
+<url>https://legendamarusino.ru/flats/c3e163e7-faa5-42b5-861f-aa177376ee1e</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 313</param>
+<param name="Этаж">3</param>
+<price from="true">13856500</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">74,9</param>
+<param name="Число комнат">3</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a7cf9ac0a9744907a62872486194775b.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>13</categoryId>
+<set-ids>s135,s131,s137</set-ids>
+</offer>
+<offer id="157">
+<name>1-комнатная 36,1м²</name>
+<url>https://legendamarusino.ru/flats/230de8e3-4cd9-4d31-b4a0-f15f2dc51145</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 314</param>
+<param name="Этаж">4</param>
+<price from="true">6941669</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">36,1</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/86cc6c70b19748cfa5192f9897b9895f.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s115,s112</set-ids>
+</offer>
+<offer id="158">
+<name>1-комнатная 39,7м²</name>
+<url>https://legendamarusino.ru/flats/fc4c7abc-cb2d-4544-a5d4-70982db443c2</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 315</param>
+<param name="Этаж">4</param>
+<price from="true">7435016</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">39,7</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6ec6a217ca9b47499bb5593302b9b41f.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s112</set-ids>
+</offer>
+<offer id="159">
+<name>Студия 22,9м²</name>
+<url>https://legendamarusino.ru/flats/7e42244f-3170-4565-b489-d1085057c8d0</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 317</param>
+<param name="Этаж">4</param>
+<price from="true">4816328</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">22,9</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2f77bbb06ae0490da9bff48ac900c8e0.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s112</set-ids>
+</offer>
+<offer id="160">
+<name>2-комнатная 38,9м²</name>
+<url>https://legendamarusino.ru/flats/5fb50d0b-691c-42bd-a839-e9a282a68b71</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 321</param>
+<param name="Этаж">1</param>
+<price from="true">7056071</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">38,9</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/461a13b99a8c48a48fe7d31bad4dae27.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s123,s127,s122</set-ids>
+</offer>
+<offer id="161">
+<name>2-комнатная 38,8м²</name>
+<url>https://legendamarusino.ru/flats/f344de94-0d96-4460-9fe1-671190b71c14</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 328</param>
+<param name="Этаж">2</param>
+<price from="true">7244736</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">38,8</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/4f1aa5fa18a447bca8355c3f4a1d8645.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123,s127</set-ids>
+</offer>
+<offer id="162">
+<name>2-комнатная 61,1м²</name>
+<url>https://legendamarusino.ru/flats/bcbc116f-be74-4876-96a6-0a6f3f36d7d8</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 329</param>
+<param name="Этаж">2</param>
+<price from="true">10981503</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">61,1</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a42cdf1795db409a83675c9df8e73c3d.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s125,s121,s123,s126</set-ids>
+</offer>
+<offer id="163">
+<name>2-комнатная 38,8м²</name>
+<url>https://legendamarusino.ru/flats/753fee83-19e4-42e7-8053-54a9f84c573f</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 335</param>
+<param name="Этаж">3</param>
+<price from="true">7255600</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">38,8</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/7953614edb6b452ca8fb36ebfe0611b4.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123,s127</set-ids>
+</offer>
+<offer id="164">
+<name>2-комнатная 61,1м²</name>
+<url>https://legendamarusino.ru/flats/eca89df5-a373-4a49-ba40-7a6880e81e20</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 336</param>
+<param name="Этаж">3</param>
+<price from="true">10998000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">61,1</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/86f0cfbf030349a7a5f89a17026144ed.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s125,s121,s123,s126</set-ids>
+</offer>
+<offer id="165">
+<name>1-комнатная 35,1м²</name>
+<url>https://legendamarusino.ru/flats/db66f56b-3b83-410c-aa33-d8902e4e2b2a</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 338</param>
+<param name="Этаж">3</param>
+<price from="true">6739200</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">35,1</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/944d5de9ef5d4c688445570cde3d9c2a.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+<offer id="166">
+<name>Студия 24,8м²</name>
+<url>https://legendamarusino.ru/flats/afecd3f0-5ece-4e0b-8150-6e379b0d4337</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 339</param>
+<param name="Этаж">3</param>
+<price from="true">5208000</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">24,8</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/fa199c2f4c3c49afb08f3cf5fdedfcf4.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="167">
+<name>2-комнатная 57,8м²</name>
+<url>https://legendamarusino.ru/flats/e7bc09fe-3024-4a5b-a9b5-22f8215f1ab3</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 341</param>
+<param name="Этаж">4</param>
+<price from="true">10477984</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">57,8</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2fe20dfdc30b4a57bc9ec6301fd2e18f.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121</set-ids>
+</offer>
+<offer id="168">
+<name>2-комнатная 38,8м²</name>
+<url>https://legendamarusino.ru/flats/2ebd2ee0-0faa-4190-a5a6-88bc38793a29</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 342</param>
+<param name="Этаж">4</param>
+<price from="true">7266464</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">38,8</param>
+<param name="Число комнат">2</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/ceb67e10f22642a18667390b050d2974.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>12</categoryId>
+<set-ids>s121,s123,s127</set-ids>
+</offer>
+<offer id="169">
+<name>1-комнатная 35,2м²</name>
+<url>https://legendamarusino.ru/flats/252b59e7-2c37-477d-be6b-c729c4155574</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 345</param>
+<param name="Этаж">4</param>
+<price from="true">6768608</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">35,2</param>
+<param name="Число комнат">1</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/300ec9a819fb4110bd7fb36319b85918.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>11</categoryId>
+<set-ids>s111</set-ids>
+</offer>
+<offer id="170">
+<name>Студия 24,7м²</name>
+<url>https://legendamarusino.ru/flats/6bb7ddc8-d676-4ebf-b654-b5ac7aa5ef43</url>
+<vendor>ООО СЗ «МАРУСИНО»</vendor>
+<param name="Адрес">Россия, Люберцы, ул. Заречная, кв. 346</param>
+<param name="Этаж">4</param>
+<price from="true">5194904</price>
+<currencyId>RUR</currencyId>
+<param name="Площадь">24,7</param>
+<param name="Число комнат">0</param>
+<param name="Год постройки">2026</param>
+<param name="Конверсия">0.5</param>
+<param name="Тип предложения">Продажа</param>
+<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a65c9921cb6444c3ac7470010fe063a4.png@png</picture>
+<description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
+<categoryId>10</categoryId>
+<set-ids>s999</set-ids>
+</offer>
+
+</offers>
+</shop>
+</yml_catalog>
