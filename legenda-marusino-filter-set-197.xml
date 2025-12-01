@@ -1,4 +1,4 @@
-<yml_catalog date="2025-11-27 21:02">
+<yml_catalog date="2025-12-01 14:02">
 <shop>
 <name>ЖК «Легенда Марусино»</name>
 <company>ООО СЗ «МАРУСИНО»</company>
@@ -50,6 +50,10 @@
 <set id="s112">
 <name>Купить 1-комнатную квартиру с высокими потолками в Люберецком районе</name>
 <url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=1&amp;high_ceiling=true</url>
+</set>
+<set id="s113">
+<name>Купить угловую 1-комнатную квартиру в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=1&amp;corner=true</url>
 </set>
 <set id="s115">
 <name>Купить 1-комнатную квартиру с гардеробной в Люберецком районе</name>
