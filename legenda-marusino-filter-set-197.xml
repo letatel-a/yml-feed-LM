@@ -35,10 +35,6 @@
 <name>Купить угловую студию в Люберецком районе</name>
 <url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=0&amp;corner=true</url>
 </set>
-<set id="s104">
-<name>Купить студию со скидкой в Люберецком районе</name>
-<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=0&amp;has_discount=true</url>
-</set>
 <set id="s110">
 <name>Купить 1-комнатную квартиру в Люберецком районе</name>
 <url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=1</url>
@@ -59,9 +55,10 @@
 <name>Купить 1-комнатную квартиру с гардеробной в Люберецком районе</name>
 <url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=1&amp;has_wardrobe=true</url>
 </set>
-<set id="s114">
-<name>Купить однушку со скидкой в Люберецком районе</name>
-<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=1&amp;has_discount=true</url>
+</set>
+<set id="s117">
+<name>Купить однушку с кухней-гостиной в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=1&amp;kitchen_livingroom=true</url>
 </set>
 <set id="s120">
 <name>Купить 2-комнатную квартиру в Люберецком районе</name>
@@ -91,10 +88,6 @@
 <name>Купить 2-комнатную квартиру с кухней-гостиной в Люберецком районе</name>
 <url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=2&amp;kitchen_livingroom=true</url>
 </set>
-<set id="s124">
-<name>Купить двушку со скидкой в Люберецком районе</name>
-<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=2&amp;has_discount=true</url>
-</set>
 <set id="s130">
 <name>Купить 3-комнатную квартиру в Люберецком районе</name>
 <url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=3</url>
@@ -123,9 +116,33 @@
 <name>Купить 3-комнатную квартиру с кухней-гостиной в Люберецком районе</name>
 <url>https://legendamarusino.ru/flats?order_by=price&amp;limit=15&amp;view=cards&amp;rooms=3&amp;kitchen_livingroom=true</url>
 </set>
-<set id="s134">
-<name>Купить трешку со скидкой в Люберецком районе</name>
-<url>https://legendamarusino.ru/flats?order_by=price&amp;limit=16&amp;view=cards&amp;rooms=3&amp;has_discount=true</url>
+<set id="s191">
+<name>Купить квартиру на 1 этаже в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;view=cards&amp;limit=15&amp;floor_number_max=1</url>
+</set>
+<set id="s192">
+<name>Купить квартиру на 2 этаже в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;view=cards&amp;limit=15&amp;floor_number_min=2&amp;floor_number_max=2</url>
+</set>
+<set id="s193">
+<name>Купить квартиру на 3 этаже в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;view=cards&amp;limit=15&amp;floor_number_min=3&amp;floor_number_max=3</url>
+</set>
+<set id="s194">
+<name>Купить квартиру на 4 этаже в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;view=cards&amp;limit=15&amp;floor_number_min=4&amp;floor_number_max=4</url>
+</set>
+<set id="s195">
+<name>Купить квартиру на 5 этаже в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;view=cards&amp;limit=15&amp;floor_number_min=5&amp;floor_number_max=5</url>
+</set>
+<set id="s196">
+<name>Купить квартиру на 6 этаже в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;view=cards&amp;limit=15&amp;floor_number_min=6&amp;floor_number_max=6</url>
+</set>
+<set id="s197">
+<name>Купить квартиру на 7 этаже в Люберецком районе</name>
+<url>https://legendamarusino.ru/flats?order_by=price&amp;view=cards&amp;limit=15&amp;floor_number_min=7&amp;floor_number_max=7</url>
 </set>
 </sets>
 <offers>
@@ -138,15 +155,15 @@
 <param name="Конверсия">1.0</param>
 <param name="Тип предложения">Продажа</param>
 <set-ids>s999</set-ids>
-<param name="Число объявлений">167</param>
+<param name="Число объявлений">197</param>
 <param name="Широта">55.694869</param>
 <param name="Долгота">37.976646</param>
 <description>Продажа квартир в новом ЖК «Легенда Марусино» в Люберецком районе. Цены, планировки и особенности квартир.</description>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1280:0/g:ce/bl:0/c:0/plain/s3://idalite-media/media/sites/context/gallery/c59bd7d2646f44cfaf138cd4792d61eb.jpg@webp</picture>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1280:0/g:ce/bl:0/c:0/plain/s3://idalite-media/media/sites/context/gallery/0e5629b61b87409e9064ee5296b0529a.jpg@webp</picture>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1280:0/g:ce/bl:0/c:0/plain/s3://idalite-media/media/sites/context/gallery/1eff2221-0f4d-4da9-826a-3fa4b993cfe7/339b0f8b72204af6af6ad62ef0bbd056.jpg@webp</picture>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1280:0/g:ce/bl:0/c:0/plain/s3://idalite-media/media/sites/context/gallery/1eff2221-0f4d-4da9-826a-3fa4b993cfe7/f8179b0bbab4455b92359fa983fa95a2.jpg@webp</picture>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1280:0/g:ce/bl:0/c:0/plain/s3://idalite-media/media/sites/context/gallery/1eff2221-0f4d-4da9-826a-3fa4b993cfe7/a046d2bbab1e4be18cf33b638f4d5af4.jpg@webp</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/common/c59bd7d2646f44cfaf138cd4792d61eb.jpg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/common/0e5629b61b87409e9064ee5296b0529a.jpg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/common/339b0f8b72204af6af6ad62ef0bbd056.jpg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/common/f8179b0bbab4455b92359fa983fa95a2.jpg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/common/a046d2bbab1e4be18cf33b638f4d5af4.jpg</picture>
 </offer>
 <offer id="1">
 <name>2-комнатная, 47.2м²</name>
@@ -165,7 +182,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/654570635dce492696df1f50253dd25a.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/654570635dce492696df1f50253dd25a.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="2">
@@ -185,7 +202,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/267fe90fa01d4c29a6c34649592cf631.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/267fe90fa01d4c29a6c34649592cf631.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="3">
@@ -205,7 +222,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1d285f49a8834907958e750cef8d1204.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/1d285f49a8834907958e750cef8d1204.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="6">
@@ -225,7 +242,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/f36edf09ce7b474d87c3c54775bf55a4.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/f36edf09ce7b474d87c3c54775bf55a4.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="7">
@@ -245,7 +262,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/5f8b476de49641b99ee9c6b60896c59c.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/5f8b476de49641b99ee9c6b60896c59c.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="8">
@@ -265,7 +282,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/3b878d5e9d2b4ff0805aa5641fbec03c.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/3b878d5e9d2b4ff0805aa5641fbec03c.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="9">
@@ -285,7 +302,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/7b892bd48e2448bbbe7fea77374a1154.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/7b892bd48e2448bbbe7fea77374a1154.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="10">
@@ -305,7 +322,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c7f1b8d46df849d2838337b6ac1717f4.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/c7f1b8d46df849d2838337b6ac1717f4.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="11">
@@ -325,7 +342,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/75f89b9651bf44c5b45647b56ac2a951.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/75f89b9651bf44c5b45647b56ac2a951.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="12">
@@ -345,7 +362,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/09654312311f450ba4bffca2b4b568c3.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/09654312311f450ba4bffca2b4b568c3.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="14">
@@ -365,7 +382,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e066f4d8caf34f5883db1686087c2678.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/e066f4d8caf34f5883db1686087c2678.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="16">
@@ -385,7 +402,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c7efc830139143d1b6588b208f2fbbf9.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/c7efc830139143d1b6588b208f2fbbf9.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="17">
@@ -405,7 +422,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/614ca38d1113496c827c98ca66207a33.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/614ca38d1113496c827c98ca66207a33.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="18">
@@ -425,7 +442,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/8a88bab8b8a8465fba80ed8ebeae77d8.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/8a88bab8b8a8465fba80ed8ebeae77d8.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="19">
@@ -445,7 +462,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/3e8f5dc00bd64e198a3a83b1373af624.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/3e8f5dc00bd64e198a3a83b1373af624.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="20">
@@ -465,7 +482,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/0f03cd17cf3244bfa32af92e363b6458.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/0f03cd17cf3244bfa32af92e363b6458.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="21">
@@ -485,7 +502,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d54b7d9211ba43b2851c1a2d909dbfa5.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/d54b7d9211ba43b2851c1a2d909dbfa5.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="22">
@@ -505,7 +522,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c5f286ee1dda4c31bc13ae24925d94c8.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/c5f286ee1dda4c31bc13ae24925d94c8.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="23">
@@ -525,7 +542,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/5e924e5989924d9cbb95e6f0573ffba5.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/5e924e5989924d9cbb95e6f0573ffba5.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="25">
@@ -545,7 +562,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/5e1ce08d2bfc43bb8e9e0fad9db22ac4.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/5e1ce08d2bfc43bb8e9e0fad9db22ac4.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="26">
@@ -565,7 +582,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/bf3d58cdedaa4ffb8ed2b7bef70b9566.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/bf3d58cdedaa4ffb8ed2b7bef70b9566.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="28">
@@ -585,7 +602,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/8cf107cedaae481caf69e8ea6276b015.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/8cf107cedaae481caf69e8ea6276b015.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="29">
@@ -605,7 +622,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e27afbd5fd79480e974c64e4af5078dc.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/e27afbd5fd79480e974c64e4af5078dc.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="31">
@@ -625,7 +642,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6c8f15eb855e44bf9eca0c4740040129.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/6c8f15eb855e44bf9eca0c4740040129.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="32">
@@ -645,7 +662,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1e2c68835cf54956b1c2bbbae3c27be7.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/1e2c68835cf54956b1c2bbbae3c27be7.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="34">
@@ -665,7 +682,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b982c44f2d03487d8f701742d724f630.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/b982c44f2d03487d8f701742d724f630.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="35">
@@ -685,7 +702,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e8445f97fb2e4562a097b2bf415e1424.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/e8445f97fb2e4562a097b2bf415e1424.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="36">
@@ -705,7 +722,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/f8ffd3d8a3c4476c9469421f6369176d.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/f8ffd3d8a3c4476c9469421f6369176d.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="37">
@@ -725,7 +742,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6eca01cc34a54112a4f142817d969a48.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/6eca01cc34a54112a4f142817d969a48.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="39">
@@ -745,7 +762,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1cf2420f2bf94e448bf0878b561a873f.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/1cf2420f2bf94e448bf0878b561a873f.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="42">
@@ -765,7 +782,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/69cb2ee5889847be809b5c8859b49a28.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/69cb2ee5889847be809b5c8859b49a28.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="44">
@@ -785,7 +802,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d48c0490681b47719c3b842de6c35517.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/d48c0490681b47719c3b842de6c35517.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="46">
@@ -805,7 +822,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/15b30dad1ea64e7ba11d2f55332dd4c3.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/15b30dad1ea64e7ba11d2f55332dd4c3.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="49">
@@ -825,7 +842,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/fd4aef60214f468fbdae75aab1a26d66.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/fd4aef60214f468fbdae75aab1a26d66.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="50">
@@ -845,7 +862,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/44561cdcf51b46519d7d491251210a2b.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/44561cdcf51b46519d7d491251210a2b.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="51">
@@ -865,7 +882,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/9c1a75a015574afe828b5d563ca975f7.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/9c1a75a015574afe828b5d563ca975f7.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="53">
@@ -885,7 +902,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d05fd11c54a641b28a2ceb62aedf363e.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/d05fd11c54a641b28a2ceb62aedf363e.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="54">
@@ -905,7 +922,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/8f1a840dfc0646029b7d213baa836bf7.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/8f1a840dfc0646029b7d213baa836bf7.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="56">
@@ -925,7 +942,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/8351bd1970354ad392b474774a3610d1.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/8351bd1970354ad392b474774a3610d1.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="58">
@@ -945,7 +962,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1681272256394daf926be2bbad66161a.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/1681272256394daf926be2bbad66161a.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="59">
@@ -965,7 +982,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/932e0f6be5994bb5976da0bb9d28a24a.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/932e0f6be5994bb5976da0bb9d28a24a.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="60">
@@ -985,7 +1002,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/bdf3bee32e21494a9817111dd6d5f28c.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/bdf3bee32e21494a9817111dd6d5f28c.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="63">
@@ -1005,7 +1022,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/fdf8b8a98fe14cfaa15b455b2592ee29.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/fdf8b8a98fe14cfaa15b455b2592ee29.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="64">
@@ -1025,7 +1042,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/f30ed4d5080e41aeba88fc477f8a6641.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/f30ed4d5080e41aeba88fc477f8a6641.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="65">
@@ -1045,7 +1062,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/445d4b65b28049ee93ab07210beb793d.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/445d4b65b28049ee93ab07210beb793d.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="67">
@@ -1065,7 +1082,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/3432d243631f4eaeb63fd818f7f72a13.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/3432d243631f4eaeb63fd818f7f72a13.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="71">
@@ -1085,7 +1102,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/9bf375dd0ddc457384d2126f777abcfb.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/9bf375dd0ddc457384d2126f777abcfb.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="74">
@@ -1105,7 +1122,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6d70ba0975c6429f9e220f5ce5942aec.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/6d70ba0975c6429f9e220f5ce5942aec.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="75">
@@ -1125,7 +1142,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/5b7de094fed94eeea78014ecd114ecba.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/5b7de094fed94eeea78014ecd114ecba.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="78">
@@ -1145,7 +1162,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/97879be3697b4c24b58cc08f652d2161.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/97879be3697b4c24b58cc08f652d2161.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="81">
@@ -1165,7 +1182,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/9791ababd5c2427d835ac77e31d6b83d.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/9791ababd5c2427d835ac77e31d6b83d.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="82">
@@ -1185,7 +1202,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/dc5943a5d8024dcebff1288488eacb49.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/dc5943a5d8024dcebff1288488eacb49.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="84">
@@ -1205,7 +1222,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/bc07a1d5a0054ea9ad4c0786bd232ad5.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/bc07a1d5a0054ea9ad4c0786bd232ad5.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="86">
@@ -1225,7 +1242,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/7acc172ca0534a91a42b6ac382e999e5.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/7acc172ca0534a91a42b6ac382e999e5.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="87">
@@ -1245,7 +1262,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1d3ace10a92245dfbca90cadb575e052.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/1d3ace10a92245dfbca90cadb575e052.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="89">
@@ -1265,7 +1282,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/7f0de488e51b4db18de5cad7fcd24d1a.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/7f0de488e51b4db18de5cad7fcd24d1a.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="90">
@@ -1285,7 +1302,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/f0094f5f2024427ba392dc0828d56cad.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/f0094f5f2024427ba392dc0828d56cad.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="91">
@@ -1305,7 +1322,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b9d91c3479d94100b09cacfe59fc92e3.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/b9d91c3479d94100b09cacfe59fc92e3.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="92">
@@ -1325,7 +1342,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/98c8d4ca6f2545d1a4166277b75724cb.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/98c8d4ca6f2545d1a4166277b75724cb.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="94">
@@ -1345,7 +1362,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/7538c7a80b5941c0a13bbc6cd6d370b2.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/7538c7a80b5941c0a13bbc6cd6d370b2.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="97">
@@ -1365,7 +1382,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/956fa7f0e4cc400a81bdd245739229c8.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/956fa7f0e4cc400a81bdd245739229c8.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="98">
@@ -1385,7 +1402,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/3f4469c376b445ce9d6612a8be737a98.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/3f4469c376b445ce9d6612a8be737a98.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="100">
@@ -1405,7 +1422,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/4f679b0c1554462e83390f2b6c738080.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/4f679b0c1554462e83390f2b6c738080.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="101">
@@ -1425,7 +1442,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/7729fa56a2be462c8dcb6906f2a77399.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/7729fa56a2be462c8dcb6906f2a77399.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="102">
@@ -1445,7 +1462,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d51e38f700fd429db29f8f4517f0b550.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/d51e38f700fd429db29f8f4517f0b550.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="105">
@@ -1465,7 +1482,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/597496660d5b4c39900c35649dc090d9.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/597496660d5b4c39900c35649dc090d9.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="106">
@@ -1485,7 +1502,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c4c3fa72415a439daf68742b8cb8acdb.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/c4c3fa72415a439daf68742b8cb8acdb.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="108">
@@ -1505,7 +1522,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/dc2dfa07d3c94a5592b5e0b4c0f8c02c.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/dc2dfa07d3c94a5592b5e0b4c0f8c02c.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="113">
@@ -1525,7 +1542,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/407b84cc8acf448aa008d7d6163df362.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/407b84cc8acf448aa008d7d6163df362.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="114">
@@ -1545,7 +1562,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a9ce028d8e544839a3da2ed2a329f3a0.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/a9ce028d8e544839a3da2ed2a329f3a0.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="121">
@@ -1565,7 +1582,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6e1c4efb4b9e4cf1b40591130fa9c8f4.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/6e1c4efb4b9e4cf1b40591130fa9c8f4.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="122">
@@ -1585,7 +1602,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/ddf2ce13be9846c699f57babde4100ad.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/ddf2ce13be9846c699f57babde4100ad.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="123">
@@ -1605,7 +1622,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/fa9da8b8b32b47859d3daa1c0eba95ba.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/fa9da8b8b32b47859d3daa1c0eba95ba.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="124">
@@ -1625,7 +1642,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/770a6f00e40e467098d17d570c7bf76d.svg@svg</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/770a6f00e40e467098d17d570c7bf76d.svg@svg</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="131">
@@ -1645,7 +1662,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/99a4829d4067456faca9d09637095891.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/99a4829d4067456faca9d09637095891.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="132">
@@ -1665,7 +1682,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/4e180b47f0824c51bd6de84450db0624.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/4e180b47f0824c51bd6de84450db0624.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="133">
@@ -1685,7 +1702,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/3e9125bb30e245f99ea87876afc1b0cf.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/3e9125bb30e245f99ea87876afc1b0cf.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="135">
@@ -1705,7 +1722,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/ed566406707549499769e55c4bf4f13f.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/ed566406707549499769e55c4bf4f13f.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="140">
@@ -1725,7 +1742,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/8dacfe2627c8405f9d10ee6213885e37.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/8dacfe2627c8405f9d10ee6213885e37.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="141">
@@ -1745,7 +1762,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b7c6b2b6eaf843bba147fd5fd4eed17d.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/b7c6b2b6eaf843bba147fd5fd4eed17d.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="142">
@@ -1765,7 +1782,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a7fa6aea30f74f1c8e5f21db5fce7bdf.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/a7fa6aea30f74f1c8e5f21db5fce7bdf.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="143">
@@ -1785,7 +1802,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/0bb04412c88446d9b357b27037dfd1e5.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/0bb04412c88446d9b357b27037dfd1e5.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="144">
@@ -1805,7 +1822,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/0cc5581123544af68983eac8a1d2feaa.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/0cc5581123544af68983eac8a1d2feaa.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="145">
@@ -1825,7 +1842,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1db5796a4a184fc5a83922a7423330e7.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/1db5796a4a184fc5a83922a7423330e7.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="146">
@@ -1845,7 +1862,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/67e4ac0170c54253842328cf35088677.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/67e4ac0170c54253842328cf35088677.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="151">
@@ -1865,7 +1882,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e8ee213e9709481daf472c0db750de2c.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/e8ee213e9709481daf472c0db750de2c.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="153">
@@ -1885,7 +1902,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/4144f150f0e640ba92301cfd468d640c.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/4144f150f0e640ba92301cfd468d640c.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="154">
@@ -1905,7 +1922,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/43296c71aaa94ef2b8cca95bf2f365d5.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/43296c71aaa94ef2b8cca95bf2f365d5.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="155">
@@ -1925,7 +1942,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a6e9d19ffbad43f888987c5350f66f00.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/a6e9d19ffbad43f888987c5350f66f00.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="156">
@@ -1945,7 +1962,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/9b2ac9624190491bb85277f7f8af5991.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/9b2ac9624190491bb85277f7f8af5991.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="157">
@@ -1965,7 +1982,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/9fe89fe3dbc345f7b685715c52348b40.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/9fe89fe3dbc345f7b685715c52348b40.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="161">
@@ -1985,7 +2002,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/8ca437b44f3e47f1ba845047b4adfb5c.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/8ca437b44f3e47f1ba845047b4adfb5c.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="162">
@@ -2005,7 +2022,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/71b1e13bb3604650bac23a88d7331656.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/71b1e13bb3604650bac23a88d7331656.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="163">
@@ -2025,7 +2042,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a0e7e6d4ceef4f62a0e1981a79a10251.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/a0e7e6d4ceef4f62a0e1981a79a10251.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="165">
@@ -2045,7 +2062,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/85ad22619fd34e3b8370924020657359.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/85ad22619fd34e3b8370924020657359.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="167">
@@ -2065,7 +2082,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c2711191cdc647d59c6b50ebc2644df7.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/c2711191cdc647d59c6b50ebc2644df7.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="168">
@@ -2085,7 +2102,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/35d611a6e87a4b6aa88f65fca3dbf10a.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/35d611a6e87a4b6aa88f65fca3dbf10a.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="169">
@@ -2105,7 +2122,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e6f69a3bf1f54ef7a57eef3693b99af8.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/e6f69a3bf1f54ef7a57eef3693b99af8.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="170">
@@ -2125,7 +2142,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/91f75b703611493f92e7a082a6838616.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/91f75b703611493f92e7a082a6838616.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="175">
@@ -2145,7 +2162,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b1da5d1baee740f68563fb9fcc563f80.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/b1da5d1baee740f68563fb9fcc563f80.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="179">
@@ -2165,7 +2182,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/493803593b4745799f561af5a6a364e3.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/493803593b4745799f561af5a6a364e3.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="180">
@@ -2185,7 +2202,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2155e04dc7844cfd9eebdd72d16077fe.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/2155e04dc7844cfd9eebdd72d16077fe.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="181">
@@ -2205,7 +2222,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c0a4fae2c74d4dc39658ed93ad079f75.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/c0a4fae2c74d4dc39658ed93ad079f75.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="183">
@@ -2225,7 +2242,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/f7f057b4807a4d5487e1e62e289112ad.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/f7f057b4807a4d5487e1e62e289112ad.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="188">
@@ -2245,7 +2262,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/15a76371a7a14b66a002e4c7dbb67772.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/15a76371a7a14b66a002e4c7dbb67772.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="190">
@@ -2265,7 +2282,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/521ead22847a49578a1607ec29570b0e.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/521ead22847a49578a1607ec29570b0e.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="191">
@@ -2285,7 +2302,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b20c06753cbd4f21a3ce324a2b428cdc.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/b20c06753cbd4f21a3ce324a2b428cdc.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="192">
@@ -2305,7 +2322,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/aa3a87bb862347dabc3d22824049b11c.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/aa3a87bb862347dabc3d22824049b11c.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="194">
@@ -2325,7 +2342,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/78a8ef4defa24eebb0820829011b0ba6.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/78a8ef4defa24eebb0820829011b0ba6.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="195">
@@ -2345,7 +2362,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c78422ce47404e4ca4b19b70c5429770.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/c78422ce47404e4ca4b19b70c5429770.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="198">
@@ -2365,7 +2382,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/75d7e507be16454b93964335f9c16da0.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/75d7e507be16454b93964335f9c16da0.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="200">
@@ -2385,7 +2402,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b04af1963d4d491880a5893651a1c2cb.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/b04af1963d4d491880a5893651a1c2cb.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="201">
@@ -2405,7 +2422,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/89803bca0a07425787190182b1cb0153.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/89803bca0a07425787190182b1cb0153.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="203">
@@ -2425,7 +2442,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/9f03df624a8d46ed977ee566d6a828ac.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/9f03df624a8d46ed977ee566d6a828ac.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="205">
@@ -2445,7 +2462,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/3c282ed1604645eb8ee4585bd94e58ec.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/3c282ed1604645eb8ee4585bd94e58ec.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="206">
@@ -2465,7 +2482,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/4d31c5ff5cac4c0790af07b1f4cc67e3.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/4d31c5ff5cac4c0790af07b1f4cc67e3.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="207">
@@ -2485,7 +2502,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/de10b456587444f895ff58ff990933c9.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/de10b456587444f895ff58ff990933c9.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="208">
@@ -2505,7 +2522,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/47f9266b22614665a3ccfa9ec4e768f1.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/47f9266b22614665a3ccfa9ec4e768f1.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="209">
@@ -2525,7 +2542,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d1f2b517a7714ed68d60ed73b123a5eb.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/d1f2b517a7714ed68d60ed73b123a5eb.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="210">
@@ -2545,7 +2562,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2eddfeb574ee492f848205eb2345cf15.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/2eddfeb574ee492f848205eb2345cf15.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="213">
@@ -2565,7 +2582,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/3d28556a9979401695d01dd142c3a3f2.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/3d28556a9979401695d01dd142c3a3f2.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="214">
@@ -2585,7 +2602,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a2afe155a8fa40f5816759b7458bccec.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/a2afe155a8fa40f5816759b7458bccec.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="217">
@@ -2605,7 +2622,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/5a465347a4c640fb9058e4412cba2583.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/5a465347a4c640fb9058e4412cba2583.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="219">
@@ -2625,7 +2642,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/14ecadce18d0402ea162ed0491f0f237.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/14ecadce18d0402ea162ed0491f0f237.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="220">
@@ -2645,7 +2662,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/4afd4d02e008482da5ab4a518075fff0.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/4afd4d02e008482da5ab4a518075fff0.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="221">
@@ -2665,7 +2682,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2e1a1070535f4f969d644980daa7c2ca.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/2e1a1070535f4f969d644980daa7c2ca.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="222">
@@ -2685,7 +2702,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/55eded46fce24eb781900b45a2ee6aa6.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/55eded46fce24eb781900b45a2ee6aa6.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="223">
@@ -2705,7 +2722,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/243968aa766b4e67b94f0a4eea83018c.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/243968aa766b4e67b94f0a4eea83018c.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="224">
@@ -2725,7 +2742,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e0c60abea44e4a1dbbc8e2c4c4971dce.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/e0c60abea44e4a1dbbc8e2c4c4971dce.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="225">
@@ -2745,7 +2762,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/76224f416b214159b109704de6aac076.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/76224f416b214159b109704de6aac076.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="226">
@@ -2765,7 +2782,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b3588ba591224250be2c052bd62117cf.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/b3588ba591224250be2c052bd62117cf.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="228">
@@ -2785,7 +2802,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/973e39cf50924e1295164e10127d5717.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/973e39cf50924e1295164e10127d5717.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="229">
@@ -2805,7 +2822,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d4e2b4c81da146e78e4b1628a1dcd248.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/d4e2b4c81da146e78e4b1628a1dcd248.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="237">
@@ -2825,7 +2842,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/281570252354470187e7ebe3977a8451.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/281570252354470187e7ebe3977a8451.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="238">
@@ -2845,7 +2862,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/79007d1d3fee4fb7accd6f521b0ee6d6.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/79007d1d3fee4fb7accd6f521b0ee6d6.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="239">
@@ -2865,7 +2882,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d75145af6c6c484e8e56e8fedb4fa7e2.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/d75145af6c6c484e8e56e8fedb4fa7e2.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="241">
@@ -2885,7 +2902,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1e5ac8b94c9a4f32917ae5aa2897c260.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/1e5ac8b94c9a4f32917ae5aa2897c260.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="243">
@@ -2905,7 +2922,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/04c2faaccc014023991697bcf5345eb0.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/04c2faaccc014023991697bcf5345eb0.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="244">
@@ -2925,7 +2942,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6317ad366d9d4fbbbb9d838d49b88c32.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/6317ad366d9d4fbbbb9d838d49b88c32.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="245">
@@ -2945,7 +2962,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c49eee553e2d4ef39cddc4dc35e9c8d8.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/c49eee553e2d4ef39cddc4dc35e9c8d8.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="248">
@@ -2965,7 +2982,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/bddf98f9314e481fa05d6357c6d4095e.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/bddf98f9314e481fa05d6357c6d4095e.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="249">
@@ -2985,7 +3002,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/1e0cfaf0123a4a78a277eaa4bc26d845.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/1e0cfaf0123a4a78a277eaa4bc26d845.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="254">
@@ -3005,7 +3022,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/287f87443cb44c34b45a049a8bf9a35f.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/287f87443cb44c34b45a049a8bf9a35f.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="257">
@@ -3025,7 +3042,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/04e94e17d6554ecd8cd2d2d05e329015.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/04e94e17d6554ecd8cd2d2d05e329015.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="258">
@@ -3045,7 +3062,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/f4a0728eec6d44409c807021e22a10a3.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/f4a0728eec6d44409c807021e22a10a3.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="264">
@@ -3065,7 +3082,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/b1ca5d58f0a44289aed36d30c38f232d.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/b1ca5d58f0a44289aed36d30c38f232d.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="265">
@@ -3085,7 +3102,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c29ad118d5f440a78f276d11f867e2b6.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/c29ad118d5f440a78f276d11f867e2b6.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="267">
@@ -3105,7 +3122,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/940ad92e35f94d31b00cc8a9378b57e6.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/940ad92e35f94d31b00cc8a9378b57e6.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="271">
@@ -3125,7 +3142,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/cdf6a67cd6944b7f8129b191ba587e3e.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/cdf6a67cd6944b7f8129b191ba587e3e.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="273">
@@ -3145,7 +3162,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/27d14d1916a64f3ab0f9071532d04907.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/27d14d1916a64f3ab0f9071532d04907.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="275">
@@ -3165,7 +3182,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/dbd60dcdc6d74139a3b6985f40330ea3.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/dbd60dcdc6d74139a3b6985f40330ea3.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="276">
@@ -3185,7 +3202,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/76f43f559d1a4557b2ae02d61e56e52a.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/76f43f559d1a4557b2ae02d61e56e52a.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="277">
@@ -3205,7 +3222,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/9fd49913a7084ce1a98225462886fc68.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/9fd49913a7084ce1a98225462886fc68.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="279">
@@ -3225,7 +3242,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2737d70bbb7c4d1eaca28f7f8072f84a.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/2737d70bbb7c4d1eaca28f7f8072f84a.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="280">
@@ -3245,7 +3262,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/c151548a68434149a8529556a5bafb7e.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/c151548a68434149a8529556a5bafb7e.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="281">
@@ -3265,7 +3282,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/ab1abfa909134941984fb533c811a061.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/ab1abfa909134941984fb533c811a061.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="282">
@@ -3285,7 +3302,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/833e049b303d4809b4b2c8202b9d73c9.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/833e049b303d4809b4b2c8202b9d73c9.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="286">
@@ -3305,7 +3322,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e75ef8b9f1404d51976718c2aa4653fd.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/e75ef8b9f1404d51976718c2aa4653fd.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="287">
@@ -3325,7 +3342,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/baca26b00bbd43c695da49e6201cd247.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/baca26b00bbd43c695da49e6201cd247.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="289">
@@ -3345,7 +3362,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/208e540491c04cc188cbdec5df011fc1.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/208e540491c04cc188cbdec5df011fc1.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="290">
@@ -3365,7 +3382,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/f99bfa485b83455d849e926f71535327.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/f99bfa485b83455d849e926f71535327.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="292">
@@ -3385,7 +3402,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/d9a8b4eafc5b4fccb2d45099d94a625a.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/d9a8b4eafc5b4fccb2d45099d94a625a.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="293">
@@ -3405,7 +3422,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/f84f01a4ac42449c9171b3c21dcd7a8e.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/f84f01a4ac42449c9171b3c21dcd7a8e.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="295">
@@ -3425,7 +3442,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/80b377ad8b284a84ad3e385b2958da82.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/80b377ad8b284a84ad3e385b2958da82.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="297">
@@ -3445,7 +3462,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/eeb3f77e5e6f456687d6253f0c9f6198.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/eeb3f77e5e6f456687d6253f0c9f6198.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="298">
@@ -3465,7 +3482,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/8b199fe43d5d4c41b0b27f692ea1fff4.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/8b199fe43d5d4c41b0b27f692ea1fff4.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="299">
@@ -3485,7 +3502,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/aaeb2d9000cb43e6a69ab34e97f4bc23.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/aaeb2d9000cb43e6a69ab34e97f4bc23.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="302">
@@ -3505,7 +3522,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/0b14fa0bbbe844e298cfb91f779a941c.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/0b14fa0bbbe844e298cfb91f779a941c.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="303">
@@ -3525,7 +3542,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a7d4f80aa669461f8b9e03ed46106ffe.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/a7d4f80aa669461f8b9e03ed46106ffe.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="304">
@@ -3545,7 +3562,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2f80599527fb4692bf0295c852e97cdd.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/2f80599527fb4692bf0295c852e97cdd.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="305">
@@ -3565,7 +3582,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/9a659a64e1e042ca872250afc3e9fc5b.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/9a659a64e1e042ca872250afc3e9fc5b.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="306">
@@ -3585,7 +3602,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/e038101064bd42d9b6e63184fe707b81.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/e038101064bd42d9b6e63184fe707b81.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="307">
@@ -3605,7 +3622,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/869797a5d5c64b6faf9f46e1d1c4cc5b.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/869797a5d5c64b6faf9f46e1d1c4cc5b.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="308">
@@ -3625,7 +3642,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2fb611e9caf24781bf5eba266928f57e.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/2fb611e9caf24781bf5eba266928f57e.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="309">
@@ -3645,7 +3662,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6efd4cec231e4d96a4b180059ece9a68.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/6efd4cec231e4d96a4b180059ece9a68.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="310">
@@ -3665,7 +3682,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/3f7f938969e54d76a8b51d072f9ec8ef.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/3f7f938969e54d76a8b51d072f9ec8ef.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="311">
@@ -3685,7 +3702,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6f2a3971b17042b199d7e0790df1cf10.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/6f2a3971b17042b199d7e0790df1cf10.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="312">
@@ -3705,7 +3722,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/fa9ee6d03bb848ab99c2ce273242ab81.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/fa9ee6d03bb848ab99c2ce273242ab81.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="313">
@@ -3725,7 +3742,7 @@
 <categoryId>13</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a7cf9ac0a9744907a62872486194775b.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/a7cf9ac0a9744907a62872486194775b.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="314">
@@ -3745,7 +3762,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/86cc6c70b19748cfa5192f9897b9895f.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/86cc6c70b19748cfa5192f9897b9895f.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="315">
@@ -3765,7 +3782,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/6ec6a217ca9b47499bb5593302b9b41f.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/6ec6a217ca9b47499bb5593302b9b41f.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="317">
@@ -3785,7 +3802,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2f77bbb06ae0490da9bff48ac900c8e0.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/2f77bbb06ae0490da9bff48ac900c8e0.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="318">
@@ -3805,7 +3822,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/aef53bba1a3e4fed94fc96cf5eb347c9.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/aef53bba1a3e4fed94fc96cf5eb347c9.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="321">
@@ -3825,7 +3842,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/461a13b99a8c48a48fe7d31bad4dae27.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/461a13b99a8c48a48fe7d31bad4dae27.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="326">
@@ -3845,7 +3862,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/5f47bf07388d4f7796982b890ff2fe29.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/5f47bf07388d4f7796982b890ff2fe29.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="328">
@@ -3865,7 +3882,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/4f1aa5fa18a447bca8355c3f4a1d8645.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/4f1aa5fa18a447bca8355c3f4a1d8645.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="329">
@@ -3885,7 +3902,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a42cdf1795db409a83675c9df8e73c3d.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/a42cdf1795db409a83675c9df8e73c3d.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="331">
@@ -3905,7 +3922,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a1316458a71442deb2b82ea4beebc1d1.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/a1316458a71442deb2b82ea4beebc1d1.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="332">
@@ -3925,7 +3942,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/5e4958d12a504d09b8aafca6b1c02570.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/5e4958d12a504d09b8aafca6b1c02570.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="335">
@@ -3945,7 +3962,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/7953614edb6b452ca8fb36ebfe0611b4.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/7953614edb6b452ca8fb36ebfe0611b4.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="336">
@@ -3965,7 +3982,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/86f0cfbf030349a7a5f89a17026144ed.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/86f0cfbf030349a7a5f89a17026144ed.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="338">
@@ -3985,7 +4002,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/944d5de9ef5d4c688445570cde3d9c2a.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/944d5de9ef5d4c688445570cde3d9c2a.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="339">
@@ -4005,7 +4022,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/fa199c2f4c3c49afb08f3cf5fdedfcf4.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/fa199c2f4c3c49afb08f3cf5fdedfcf4.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="341">
@@ -4025,7 +4042,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/2fe20dfdc30b4a57bc9ec6301fd2e18f.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/2fe20dfdc30b4a57bc9ec6301fd2e18f.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="342">
@@ -4045,7 +4062,7 @@
 <categoryId>12</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/ceb67e10f22642a18667390b050d2974.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/ceb67e10f22642a18667390b050d2974.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="345">
@@ -4065,7 +4082,7 @@
 <categoryId>11</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/300ec9a819fb4110bd7fb36319b85918.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/300ec9a819fb4110bd7fb36319b85918.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 <offer id="346">
@@ -4085,7 +4102,7 @@
 <categoryId>10</categoryId>
 <vendor>ООО СЗ «МАРУСИНО»</vendor>
 <param name="Конверсия">0.5</param>
-<picture>https://cdn.idalite.ru/i/insecure/q:85/rs:fit:1200:1200/g:ce/bl:0/c:0/plain/s3://idalite-media/media/catalog/flat/plan2d/a65c9921cb6444c3ac7470010fe063a4.png@png</picture>
+<picture>https://letatel-a.github.io/yml-feed-LM/img/a65c9921cb6444c3ac7470010fe063a4.png@png</picture>
 <description>Продажа от застройщика. Ипотека, рассрочка, материнский капитал, трейд-ин.</description>
 </offer>
 </offers>
